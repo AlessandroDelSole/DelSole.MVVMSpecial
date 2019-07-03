@@ -1,7 +1,4 @@
 ﻿using Newtonsoft.Json;
-using System;
-using System.Collections.Generic;
-using System.Net;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Text;
@@ -9,8 +6,20 @@ using System.Threading.Tasks;
 
 namespace DelSole.MVVMSpecial.Services
 {
+    /// <summary>
+    /// Helper class to make API calls via HTTP verbs
+    /// </summary>
     public class ApiService
     {
+        /// <summary>
+        /// Read data from the specified endpoint
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="data"></param>
+        /// <param name="url"></param>
+        /// <param name="id"></param>
+        /// <param name="forcePost"></param>
+        /// <returns></returns>
         public virtual async Task<HttpResponseMessage> GetAsync<T>(T data, string url, string id = null, bool forcePost = false)
         {
             HttpResponseMessage response;
