@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Collections.ObjectModel;
+using System.Globalization;
 
 namespace DelSole.MVVMSpecial.Helpers
 {
@@ -17,6 +18,18 @@ namespace DelSole.MVVMSpecial.Helpers
                 return new ObservableCollection<T>(collection);
             else
                 return null;
+        }
+
+        /// <summary>
+        /// Capitalize the first letter of each word in a string
+        /// </summary>
+        /// <param name="value"></param>
+        /// <returns></returns>
+        public static string ToTitleCase(this string value, string culture)
+        {
+            string originalString = value.ToString().ToLower();
+
+            return new CultureInfo(culture).TextInfo.ToTitleCase(originalString);
         }
     }
 }
