@@ -1,0 +1,480 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DelSole.MVVMSpecial</name>
+    </assembly>
+    <members>
+        <member name="T:DelSole.MVVMSpecial.Behaviors.BaseValidatorBehavior`1">
+            <summary>
+            Base class for behaviors that provide data validation
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="P:DelSole.MVVMSpecial.Behaviors.BaseValidatorBehavior`1.IsValid">
+            <summary>
+            Return whether an object has passed validation
+            </summary>
+        </member>
+        <member name="T:DelSole.MVVMSpecial.Behaviors.BehaviorBase`1">
+            <summary>
+            Base class for custom behaviors. Not intended for data validation.
+            For data validation see <seealso cref="T:DelSole.MVVMSpecial.Behaviors.BaseValidatorBehavior`1"/>
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Behaviors.BehaviorBase`1.OnAttachedTo(`0)">
+            <summary>
+            Raised when the behavior is attached to the specified object
+            </summary>
+            <param name="bindable"></param>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Behaviors.BehaviorBase`1.OnDetachingFrom(`0)">
+            <summary>
+            Raised when the behavior is detaching from the specified object
+            </summary>
+            <param name="bindable"></param>
+        </member>
+        <member name="T:DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior">
+            <summary>
+            Transform an event from a <seealso cref="T:Xamarin.Forms.View"/> into a bindable Command instance 
+            </summary>
+        </member>
+        <member name="T:DelSole.MVVMSpecial.Behaviors.EventToCommandPage">
+            <summary>
+            Transform an event from a <seealso cref="T:Xamarin.Forms.Page"/> into a bindable Command instance 
+            </summary>
+        </member>
+        <member name="T:DelSole.MVVMSpecial.Behaviors.FieldEmptyValidatorBehavior">
+            <summary>
+            Validate an Entry and highlights in red the placeholder if 
+            it is empty
+            </summary>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Behaviors.FieldEmptyValidatorBehavior.HandleTextChanged(System.Object,Xamarin.Forms.TextChangedEventArgs)">
+            <summary>
+            Validate the text inside the <seealso cref="T:Xamarin.Forms.Entry"/>
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="T:DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior">
+            <summary>
+            Validate an Entry and cuts its content if longer than the
+            value of the MaxLength property
+            </summary>
+        </member>
+        <member name="T:DelSole.MVVMSpecial.Behaviors.IValidatorBehavior">
+            <summary>
+            Define a property that all validator behaviors must expose for validation to be considered passed
+            </summary>
+        </member>
+        <member name="T:DelSole.MVVMSpecial.Behaviors.Validation">
+            <summary>
+            Store a list of validation errors
+            </summary>
+        </member>
+        <member name="P:DelSole.MVVMSpecial.Behaviors.Validation.ValidationErrors">
+            <summary>
+            A list of validation errors. Key of type object is typically the View
+            while Value of type string is an error message
+            </summary>
+        </member>
+        <member name="T:DelSole.MVVMSpecial.Converters.BoolToObjectConverter`1">
+            <summary>
+            Support for validation with behaviors in XAML
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="T:DelSole.MVVMSpecial.Converters.ByteToImageConverter">
+            <summary>
+            Convert a byte array into an ImageSource object that can be bound to
+            the <seealso cref="T:Xamarin.Forms.Image"/> control
+            </summary>
+        </member>
+        <member name="T:DelSole.MVVMSpecial.Converters.EnumToStringConverter">
+            <summary>
+            Convert a value from an enumeration into a string, provided its <seealso cref="T:System.ComponentModel.DataAnnotations.DisplayAttribute"/> attribute with the Description property
+            </summary>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Helpers.Extensions.ToObservableCollection``1(System.Collections.Generic.IEnumerable{``0})">
+            <summary>
+            Return an <seealso cref="T:System.Collections.ObjectModel.ObservableCollection`1"/> from any <seealso cref="T:System.Collections.Generic.IEnumerable`1"/> set
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="collection"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Helpers.Extensions.ToTitleCase(System.String,System.String)">
+            <summary>
+            Capitalize the first letter of each word in a string
+            </summary>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="P:DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.Title">
+            <summary>
+            Gets or sets the title.
+            </summary>
+            <value>The title.</value>
+        </member>
+        <member name="P:DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.Message">
+            <summary>
+            Gets or sets the message.
+            </summary>
+            <value>The message.</value>
+        </member>
+        <member name="P:DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.Cancel">
+            <summary>
+            Gets or sets a value indicating whether this instance cancel/OK text.
+            </summary>
+            <value><c>true</c> if this instance cancel; otherwise, <c>false</c>.</value>
+        </member>
+        <member name="P:DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.OnCompleted">
+            <summary>
+            Gets or sets the OnCompleted Action.
+            </summary>
+            <value>The OnCompleted Action.</value>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Helpers.NotifyBase.SetProperty``1(``0@,``0,System.String,System.Action)">
+            <summary>
+            Set a property value by ref and raise a change notification
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="backingStore">the backing field</param>
+            <param name="value">the new property value</param>
+            <param name="propertyName">the property name</param>
+            <param name="onChanged">custom action to be invoked when the value changes</param>
+            <returns></returns>
+        </member>
+        <member name="T:DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion">
+            <summary>
+            Factory for task completion notifiers.
+            </summary>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.Create(System.Threading.Tasks.Task)">
+            <summary>
+            Creates a new task notifier watching the specified task.
+            </summary>
+            <param name="task">The task to watch.</param>
+            <returns>A new task notifier watching the specified task.</returns>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.Create``1(System.Threading.Tasks.Task{``0})">
+            <summary>
+            Creates a new task notifier watching the specified task.
+            </summary>
+            <typeparam name="TResult">The type of the task result.</typeparam>
+            <param name="task">The task to watch.</param>
+            <returns>A new task notifier watching the specified task.</returns>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.Create(System.Func{System.Threading.Tasks.Task})">
+            <summary>
+            Executes the specified asynchronous code and creates a new task notifier watching the returned task.
+            </summary>
+            <param name="asyncAction">The asynchronous code to execute.</param>
+            <returns>A new task notifier watching the returned task.</returns>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.Create``1(System.Func{System.Threading.Tasks.Task{``0}})">
+            <summary>
+            Executes the specified asynchronous code and creates a new task notifier watching the returned task.
+            </summary>
+            <param name="asyncAction">The asynchronous code to execute.</param>
+            <returns>A new task notifier watching the returned task.</returns>
+        </member>
+        <member name="T:DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.NotifyTaskCompletionImplementation">
+            <summary>
+            Watches a task and raises property-changed notifications when the task completes.
+            </summary>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.NotifyTaskCompletionImplementation.#ctor(System.Threading.Tasks.Task)">
+            <summary>
+            Initializes a task notifier watching the specified task.
+            </summary>
+            <param name="task">The task to watch.</param>
+        </member>
+        <member name="T:DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.NotifyTaskCompletionImplementation`1">
+            <summary>
+            Watches a task and raises property-changed notifications when the task completes.
+            </summary>
+            <typeparam name="TResult">The type of the task result.</typeparam>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.NotifyTaskCompletionImplementation`1.#ctor(System.Threading.Tasks.Task{`0})">
+            <summary>
+            Initializes a task notifier watching the specified task.
+            </summary>
+            <param name="task">The task to watch.</param>
+        </member>
+        <member name="T:DelSole.MVVMSpecial.Helpers.RelayCommand">
+            <summary>
+            Class RelayCommand.
+            </summary>
+        </member>
+        <member name="F:DelSole.MVVMSpecial.Helpers.RelayCommand._execute">
+            <summary>
+            The _execute
+            </summary>
+        </member>
+        <member name="F:DelSole.MVVMSpecial.Helpers.RelayCommand._canExecute">
+            <summary>
+            The _can execute
+            </summary>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Helpers.RelayCommand.#ctor(System.Action,System.Func{System.Boolean})">
+            <summary>
+            Initializes a new instance of the <see cref="T:DelSole.MVVMSpecial.Helpers.RelayCommand"/> class.
+            </summary>
+            <param name="execute">The execute.</param>
+            <param name="canExecute">The can execute.</param>
+            <exception cref="T:System.ArgumentNullException">execute</exception>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Helpers.RelayCommand.#ctor(System.Action)">
+            <summary>
+            Initializes a new instance of the RelayCommand class that
+            can always execute.
+            </summary>
+            <param name="execute">The execution logic.</param>
+            <exception cref="T:System.ArgumentNullException">If the execute argument is null.</exception>
+        </member>
+        <member name="E:DelSole.MVVMSpecial.Helpers.RelayCommand.CanExecuteChanged">
+            <summary>
+            Occurs when changes occur that affect whether the command should execute.
+            </summary>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Helpers.RelayCommand.RaiseCanExecuteChanged">
+            <summary>
+            Raises the can execute changed.
+            </summary>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Helpers.RelayCommand.CanExecute(System.Object)">
+            <summary>
+            Defines the method that determines whether the command can execute in its current state.
+            </summary>
+            <param name="parameter">Data used by the command.  If the command does not require data to be passed, this object can be set to null.</param>
+            <returns>true if this command can be executed; otherwise, false.</returns>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Helpers.RelayCommand.Execute(System.Object)">
+            <summary>
+            Defines the method to be called when the command is invoked.
+            </summary>
+            <param name="parameter">Data used by the command.  If the command does not require data to be passed, this object can be set to null.</param>
+        </member>
+        <member name="T:DelSole.MVVMSpecial.Helpers.RelayCommand`1">
+            <summary>
+            Generic RelayCommand class.
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="F:DelSole.MVVMSpecial.Helpers.RelayCommand`1._execute">
+            <summary>
+            The execute
+            </summary>
+        </member>
+        <member name="F:DelSole.MVVMSpecial.Helpers.RelayCommand`1._canExecute">
+            <summary>
+            The can execute
+            </summary>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Helpers.RelayCommand`1.#ctor(System.Action{`0})">
+            <summary>
+            Initializes a new instance of the <see cref="T:DelSole.MVVMSpecial.Helpers.RelayCommand`1" /> class.
+            </summary>
+            <param name="execute">The execute action.</param>
+            <exception cref="T:System.ArgumentNullException">execute</exception>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Helpers.RelayCommand`1.#ctor(System.Action{`0},System.Predicate{`0})">
+            <summary>
+            Initializes a new instance of the <see cref="T:DelSole.MVVMSpecial.Helpers.RelayCommand`1" /> class.
+            </summary>
+            <param name="execute">The execute.</param>
+            <param name="canExecute">The can execute predicate.</param>
+            <exception cref="T:System.ArgumentNullException">execute</exception>
+        </member>
+        <member name="E:DelSole.MVVMSpecial.Helpers.RelayCommand`1.CanExecuteChanged">
+            <summary>
+            Occurs when changes occur that affect whether the command should execute.
+            </summary>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Helpers.RelayCommand`1.RaiseCanExecuteChanged">
+            <summary>
+            Raise <see cref="E:DelSole.MVVMSpecial.Helpers.RelayCommand`1.CanExecuteChanged" /> event.
+            </summary>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Helpers.RelayCommand`1.CanExecute(System.Object)">
+            <summary>
+            Determines whether this instance can execute the specified parameter.
+            </summary>
+            <param name="parameter">The parameter.</param>
+            <returns><c>true</c> if this instance can execute the specified parameter; otherwise, <c>false</c>.</returns>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Helpers.RelayCommand`1.Execute(System.Object)">
+            <summary>
+            Executes the specified parameter.
+            </summary>
+            <param name="parameter">The parameter.</param>
+        </member>
+        <member name="T:DelSole.MVVMSpecial.Interfaces.IAsyncInitialization">
+            <summary>
+            A contract for classes that need async initialization when instantiated
+            </summary>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Interfaces.IAsyncInitialization.InitializeAsync">
+            <summary>
+            Run asynchronous code when an object is initialized
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion`1">
+            <summary>
+            Watches a task and raises property-changed notifications when the task completes.
+            </summary>
+            <typeparam name="TResult">The type of the task result.</typeparam>
+        </member>
+        <member name="P:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion`1.Task">
+            <summary>
+            Gets the task being watched. This property never changes and is never <c>null</c>.
+            </summary>
+        </member>
+        <member name="P:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion`1.Result">
+            <summary>
+            Gets the result of the task. Returns the default value of <typeparamref name="TResult"/> if the task has not completed successfully. This property raises a notification when the task completes successfully.
+            </summary>
+        </member>
+        <member name="T:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion">
+            <summary>
+            Watches a task and raises property-changed notifications when the task completes.
+            </summary>
+        </member>
+        <member name="P:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.Task">
+            <summary>
+            Gets the task being watched. This property never changes and is never <c>null</c>.
+            </summary>
+        </member>
+        <member name="P:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.TaskCompleted">
+            <summary>
+            Gets a task that completes successfully when <see cref="P:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.Task"/> completes (successfully, faulted, or canceled). This property never changes and is never <c>null</c>.
+            </summary>
+        </member>
+        <member name="P:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.Status">
+            <summary>
+            Gets the current task status. This property raises a notification when the task completes.
+            </summary>
+        </member>
+        <member name="P:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsCompleted">
+            <summary>
+            Gets whether the task has completed. This property raises a notification when the value changes to <c>true</c>.
+            </summary>
+        </member>
+        <member name="P:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsNotCompleted">
+            <summary>
+            Gets whether the task is busy (not completed). This property raises a notification when the value changes to <c>false</c>.
+            </summary>
+        </member>
+        <member name="P:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsSuccessfullyCompleted">
+            <summary>
+            Gets whether the task has completed successfully. This property raises a notification when the value changes to <c>true</c>.
+            </summary>
+        </member>
+        <member name="P:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsCanceled">
+            <summary>
+            Gets whether the task has been canceled. This property raises a notification only if the task is canceled (i.e., if the value changes to <c>true</c>).
+            </summary>
+        </member>
+        <member name="P:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsFaulted">
+            <summary>
+            Gets whether the task has faulted. This property raises a notification only if the task faults (i.e., if the value changes to <c>true</c>).
+            </summary>
+        </member>
+        <member name="P:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.Exception">
+            <summary>
+            Gets the wrapped faulting exception for the task. Returns <c>null</c> if the task is not faulted. This property raises a notification only if the task faults (i.e., if the value changes to non-<c>null</c>).
+            </summary>
+        </member>
+        <member name="P:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.InnerException">
+            <summary>
+            Gets the original faulting exception for the task. Returns <c>null</c> if the task is not faulted. This property raises a notification only if the task faults (i.e., if the value changes to non-<c>null</c>).
+            </summary>
+        </member>
+        <member name="P:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.ErrorMessage">
+            <summary>
+            Gets the error message for the original faulting exception for the task. Returns <c>null</c> if the task is not faulted. This property raises a notification only if the task faults (i.e., if the value changes to non-<c>null</c>).
+            </summary>
+        </member>
+        <member name="T:DelSole.MVVMSpecial.Interfaces.IRefreshable">
+            <summary>
+            A contract for pages which want to implement content refresh
+            </summary>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Interfaces.IRefreshable.Refresh(System.Object[])">
+            <summary>
+            Refresh content in a page
+            </summary>
+            <param name="constructorParams"></param>
+            <returns><seealso cref="T:System.Threading.Tasks.Task"/></returns>
+        </member>
+        <member name="T:DelSole.MVVMSpecial.Services.ApiService">
+            <summary>
+            Helper class to make API calls via HTTP verbs
+            </summary>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Services.ApiService.GetAsync``1(``0,System.String,System.String,System.Boolean)">
+            <summary>
+            Read data from the specified endpoint
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="data"></param>
+            <param name="url"></param>
+            <param name="id"></param>
+            <param name="forcePost"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Services.ApiService.WriteAsync``1(``0,System.String,System.String)">
+            <summary>
+            Send a POST request to the specified endpoint
+            </summary>
+            <typeparam name="T">A type that represents the data</typeparam>
+            <param name="data">A type that represents the data</param>
+            <param name="url">The endpoint's URL</param>
+            <param name="id">The ID or query string</param>
+            <returns></returns>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Services.ApiService.EditAsync``1(``0,System.String,System.String)">
+            <summary>
+            Send a PUT request to the specified endpoint
+            </summary>
+            <typeparam name="T">A type that represents the data</typeparam>
+            <param name="data">A type that represents the data</param>
+            <param name="url">The endpoint's URL</param>
+            <param name="id">The ID or query string</param>
+            <returns></returns>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Services.ApiService.DeleteAsync``1(``0,System.String,System.String)">
+            <summary>
+            Send a DELETE request to the specified endpoint
+            </summary>
+            <typeparam name="T">A type that represents the data</typeparam>
+            <param name="data">A type that represents the data</param>
+            <param name="url">The endpoint's URL</param>
+            <param name="id">The ID or query string</param>
+            <returns></returns>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.ViewModels.ViewModelBase.InitializeAsync">
+            <summary>
+            Contains asynchronous code that must run at initialization
+            </summary>
+            <returns>Task</returns>
+            <remarks>
+            Add the following in the ViewModel's constructor:
+            <code>InitializationNotifier = NotifyTaskCompletion.Create(InitializeAsync());</code>
+            </remarks>
+        </member>
+        <member name="P:DelSole.MVVMSpecial.ViewModels.ViewModelBase.IsBusy">
+            <summary>
+            It can be bound to any <seealso cref="T:Xamarin.Forms.View"/> to represent a busy state
+            </summary>
+        </member>
+        <member name="P:DelSole.MVVMSpecial.ViewModels.ViewModelBase.Title">
+            <summary>
+            It can be bound to a Page's Title property
+            </summary>
+        </member>
+    </members>
+</doc>
