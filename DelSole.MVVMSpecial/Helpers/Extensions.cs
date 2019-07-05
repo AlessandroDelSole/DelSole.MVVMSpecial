@@ -4,6 +4,9 @@ using System.Globalization;
 
 namespace DelSole.MVVMSpecial.Helpers
 {
+    /// <summary>
+    /// Defines helper extension methods
+    /// </summary>
     public static class Extensions
     {
         /// <summary>
@@ -23,8 +26,9 @@ namespace DelSole.MVVMSpecial.Helpers
         /// <summary>
         /// Capitalize the first letter of each word in a string
         /// </summary>
-        /// <param name="value"></param>
-        /// <returns></returns>
+        /// <param name="value">The string to be converted</param>
+        /// <param name="culture">The culture representation in the ISO format (e.g. en-US or en)</param>
+        /// <returns><seealso cref="string"/></returns>
         public static string ToTitleCase(this string value, string culture)
         {
             string originalString = value.ToString().ToLower();

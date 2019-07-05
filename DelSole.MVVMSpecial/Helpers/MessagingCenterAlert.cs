@@ -2,7 +2,9 @@
 
 namespace DelSole.MVVMSpecial.Helpers
 {
-    
+    /// <summary>
+    /// Provides a built-in alert for view models
+    /// </summary>
     public class MessagingCenterAlert
     {
 

@@ -1,9 +1,14 @@
-﻿using System;
+﻿#pragma warning disable CS1591
+
+using System;
 using System.Globalization;
 using Xamarin.Forms;
 
 namespace DelSole.MVVMSpecial.Converters
 {
+    /// <summary>
+    /// Convert a long <seealso cref="DateTime"/> into its short representation
+    /// </summary>
     public class LongToShortDateConverter: IValueConverter
     {
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)

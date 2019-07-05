@@ -1,4 +1,6 @@
-﻿using System;
+﻿#pragma warning disable CS1591
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
@@ -6,6 +8,9 @@ using System.Runtime.CompilerServices;
 
 namespace DelSole.MVVMSpecial.Helpers
 {
+    /// <summary>
+    /// Base class that implements change notification
+    /// </summary>
     public class NotifyBase : INotifyPropertyChanged
     {
         /// <summary>
@@ -30,6 +35,10 @@ namespace DelSole.MVVMSpecial.Helpers
 
         #region INotifyPropertyChanged
         public event PropertyChangedEventHandler PropertyChanged;
+        /// <summary>
+        /// To be called when a property value changes
+        /// </summary>
+        /// <param name="propertyName">the name of the property whose value has changed</param>
         protected void OnPropertyChanged([CallerMemberName] string propertyName = "")
         {
             var changed = PropertyChanged;

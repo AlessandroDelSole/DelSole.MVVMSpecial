@@ -5,6 +5,9 @@
     /// </summary>
     public interface IValidatorBehavior
     {
+        /// <summary>
+        /// Return whether the specified object has passed validation
+        /// </summary>
         bool IsValid { get; set; }
     }
 }

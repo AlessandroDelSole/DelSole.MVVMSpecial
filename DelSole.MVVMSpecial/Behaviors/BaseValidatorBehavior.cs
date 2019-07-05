@@ -1,4 +1,6 @@
-﻿using Xamarin.Forms;
+﻿#pragma warning disable CS1591
+
+using Xamarin.Forms;
 
 namespace DelSole.MVVMSpecial.Behaviors
 {

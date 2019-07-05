@@ -1,4 +1,6 @@
-﻿using System;
+﻿#pragma warning disable CS1591
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -9,6 +11,9 @@ using Xamarin.Forms;
 
 namespace DelSole.MVVMSpecial.Pages
 {
+    /// <summary>
+    /// Base class for pages that implement content refresh and actions to close the page 
+    /// </summary>
     public abstract class PageBase : ContentPage, IRefreshable
     {
         public void DisplayOnlyFrom(IEnumerable<Type> allowedViewModelTypes)
@@ -18,7 +23,13 @@ namespace DelSole.MVVMSpecial.Pages
         protected PageBase()
         {
             MessagingCenter.Subscribe<ViewModelBase, MessagingCenterAlert>(this, "DisplayAlert", DisplayAlertFromMessagingCenter);
+            MessagingCenter.Subscribe<ViewModelBase>(this, "ClosePageCommand", ClosePage);
+        }
 
+        private async void ClosePage(ViewModelBase obj)
+        {
+            MessagingCenter.Unsubscribe<ViewModelBase>(this, "ClosePageCommand");
+            await Navigation.PopAsync();
         }
 
         public virtual async void DisplayAlertFromMessagingCenter(ViewModelBase arg1, MessagingCenterAlert arg2)
