@@ -25,7 +25,7 @@ namespace DelSole.MVVMSpecial.Behaviors
         }
 
         /// <summary>
-        /// Perform the validation logic
+        /// Validate the text inside the <seealso cref="Entry"/>
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>

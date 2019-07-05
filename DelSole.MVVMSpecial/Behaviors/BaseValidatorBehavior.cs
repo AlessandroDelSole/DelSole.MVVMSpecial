@@ -2,6 +2,10 @@
 
 namespace DelSole.MVVMSpecial.Behaviors
 {
+    /// <summary>
+    /// Base class for behaviors that provide data validation
+    /// </summary>
+    /// <typeparam name="T"></typeparam>
     public class BaseValidatorBehavior<T> : Behavior<T>,
         IValidatorBehavior where T : BindableObject
     {
@@ -11,6 +15,9 @@ namespace DelSole.MVVMSpecial.Behaviors
 
         public static readonly BindableProperty IsValidProperty = IsValidPropertyKey.BindableProperty;
 
+        /// <summary>
+        /// Return whether an object has passed validation
+        /// </summary>
         public bool IsValid
         {
             get { return (bool)base.GetValue(IsValidProperty); }

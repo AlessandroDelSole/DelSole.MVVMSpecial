@@ -5,6 +5,9 @@ using Xamarin.Forms;
 
 namespace DelSole.MVVMSpecial.Behaviors
 {
+    /// <summary>
+    /// Transform an event from a <seealso cref="View"/> into a bindable Command instance 
+    /// </summary>
     public class EventToCommandBehavior : BehaviorBase<View>
     {
         Delegate _eventHandler;

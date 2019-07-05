@@ -38,6 +38,15 @@ namespace DelSole.MVVMSpecial.Services
 
             return response;
         }
+
+        /// <summary>
+        /// Send a POST request to the specified endpoint
+        /// </summary>
+        /// <typeparam name="T">A type that represents the data</typeparam>
+        /// <param name="data">A type that represents the data</param>
+        /// <param name="url">The endpoint's URL</param>
+        /// <param name="id">The ID or query string</param>
+        /// <returns></returns>
         public virtual async Task<HttpResponseMessage> WriteAsync<T>(T data, string url, string id = null)
         {
 
@@ -58,6 +67,14 @@ namespace DelSole.MVVMSpecial.Services
             return response;
         }
 
+        /// <summary>
+        /// Send a PUT request to the specified endpoint
+        /// </summary>
+        /// <typeparam name="T">A type that represents the data</typeparam>
+        /// <param name="data">A type that represents the data</param>
+        /// <param name="url">The endpoint's URL</param>
+        /// <param name="id">The ID or query string</param>
+        /// <returns></returns>
         public virtual async Task<HttpResponseMessage> EditAsync<T>(T data, string url, string id = null)
         {
 
@@ -74,6 +91,14 @@ namespace DelSole.MVVMSpecial.Services
             return response;
         }
 
+        /// <summary>
+        /// Send a DELETE request to the specified endpoint
+        /// </summary>
+        /// <typeparam name="T">A type that represents the data</typeparam>
+        /// <param name="data">A type that represents the data</param>
+        /// <param name="url">The endpoint's URL</param>
+        /// <param name="id">The ID or query string</param>
+        /// <returns></returns>
         public virtual async Task<HttpResponseMessage> DeleteAsync<T>(T data, string url, string id = null)
         {
 
