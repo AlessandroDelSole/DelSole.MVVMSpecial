@@ -1,0 +1,560 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/adelsole/Source/Repos/DelSole.MVVMSpecial/DelSole.MVVMSpecial",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Behaviors.BaseValidatorBehavior-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Behaviors.BaseValidatorBehavior-1.html",
+          "hash": "k9RXLfQQHDc6RpdFGdSAlA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Behaviors.BehaviorBase-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Behaviors.BehaviorBase-1.html",
+          "hash": "B1URmsHIW7CKyg8kOwG9jg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.html",
+          "hash": "1lXNJoIKOZlMycBmyxO8Cg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Behaviors.EventToCommandPage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Behaviors.EventToCommandPage.html",
+          "hash": "FypiTDDZMzFoJ56mtAmPnA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Behaviors.FieldEmptyValidatorBehavior.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Behaviors.FieldEmptyValidatorBehavior.html",
+          "hash": "jq2EdQquQZper/a7upViiA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.html",
+          "hash": "kqN4sBJM1QEFFUI0E7GoWQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Behaviors.IValidatorBehavior.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Behaviors.IValidatorBehavior.html",
+          "hash": "xuKGTzINlSD9WqM41VPDEw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Behaviors.Validation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Behaviors.Validation.html",
+          "hash": "ttTFQowOa+zfRP5+aTsJhw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Behaviors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Behaviors.html",
+          "hash": "eFPOrkko/HV3B0Tyn4D1aQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Converters.BoolToObjectConverter-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Converters.BoolToObjectConverter-1.html",
+          "hash": "SuMo3hT/HWKGBgQlLqQxog=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Converters.ByteToImageConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Converters.ByteToImageConverter.html",
+          "hash": "FcPSoWe1r7rifXH053O9mA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Converters.EnumToStringConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Converters.EnumToStringConverter.html",
+          "hash": "7LHiVU80jmlw66lp2+jHqA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Converters.IntToBoolConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Converters.IntToBoolConverter.html",
+          "hash": "J1KbCglvbhRhyvcl1ufWhQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Converters.LongToShortDateConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Converters.LongToShortDateConverter.html",
+          "hash": "1N+llXRGlhegK/NRkN+QdA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Converters.NegateBooleanConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Converters.NegateBooleanConverter.html",
+          "hash": "o29sxsDyLMXGpmcjIZwJxQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Converters.StringToTitleCaseConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Converters.StringToTitleCaseConverter.html",
+          "hash": "0kYrDEGO+AHQ7IB5UEvfmw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Converters.StringToUpperCaseConverter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Converters.StringToUpperCaseConverter.html",
+          "hash": "my+Dl/tFKtqgCcmMHs16IQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Converters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Converters.html",
+          "hash": "681vlyhWUHfMiFIfNHIj/g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Helpers.Extensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Helpers.Extensions.html",
+          "hash": "RDTJRWJ7qYXpEtmtucAriw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.html",
+          "hash": "E1+ulGwqWxCpyw1l80lUJQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Helpers.NotifyBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Helpers.NotifyBase.html",
+          "hash": "26gVzXjhNIeySohat9df9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.html",
+          "hash": "XkH7FgzccZsCEFtPgAlWpQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Helpers.RelayCommand-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Helpers.RelayCommand-1.html",
+          "hash": "R67ecreD+oQ8rdBCUZoaJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Helpers.RelayCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Helpers.RelayCommand.html",
+          "hash": "ZWv1NQR3ZD5Yi4sFHzOhDw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Helpers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Helpers.html",
+          "hash": "SKx4Wb7j0Qw4NY+G4b3qug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Interfaces.IAsyncInitialization.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Interfaces.IAsyncInitialization.html",
+          "hash": "/nA0oGs5DHCLtN9EKZUqww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion-1.html",
+          "hash": "IY0sGig6BcJTcmwFKtX/NA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.html",
+          "hash": "fhv0conh3t7Pu3oE0/R2HA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Interfaces.IRefreshable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Interfaces.IRefreshable.html",
+          "hash": "WFdQWmwgtxFKfEXkyxrXMw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Interfaces.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Interfaces.html",
+          "hash": "cEA63trE0srdpXKkN7pk6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Pages.PageBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Pages.PageBase.html",
+          "hash": "vKglNCjljueRZwmvu2Y74w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Pages.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Pages.html",
+          "hash": "LJvOqoLt0lfKPlrgJE2igg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Services.ApiService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Services.ApiService.html",
+          "hash": "bMzHkGe9yiU8k8ih5FEfqA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.Services.html",
+          "hash": "8my6OkC8YCm/++Fq2+DqxQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.ViewModels.ViewModelBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.ViewModels.ViewModelBase.html",
+          "hash": "xrSvIZHz96M6wStcpYBmyg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/DelSole.MVVMSpecial.ViewModels.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/DelSole.MVVMSpecial.ViewModels.html",
+          "hash": "tdhejwc2t15WekiRABXCKg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "qiub5AfwptVxpgO+Za5RTg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "mkeZocwe3OuIcY5SnOMofA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "e3sa3bwkV4f74OScJt2PLg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "t7iiFrmuYmrKWisdq+lN6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "iVIBF6JpiHPHaxMRVu8mcQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "k+/dkjFuwAVS32HduMpmBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Disable incremental build by force rebuild option.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "ForceRebuild"
+      },
+      "processors": {
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 36,
+          "skipped_file_count": 0
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: it's disabled.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
