@@ -1,0 +1,1632 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: DelSole.MVVMSpecial.Behaviors
+  name: DelSole.MVVMSpecial.Behaviors
+  href: api/DelSole.MVVMSpecial.Behaviors.html
+  commentId: N:DelSole.MVVMSpecial.Behaviors
+  fullName: DelSole.MVVMSpecial.Behaviors
+  nameWithType: DelSole.MVVMSpecial.Behaviors
+- uid: DelSole.MVVMSpecial.Behaviors.BaseValidatorBehavior`1
+  name: BaseValidatorBehavior<T>
+  href: api/DelSole.MVVMSpecial.Behaviors.BaseValidatorBehavior-1.html
+  commentId: T:DelSole.MVVMSpecial.Behaviors.BaseValidatorBehavior`1
+  name.vb: BaseValidatorBehavior(Of T)
+  fullName: DelSole.MVVMSpecial.Behaviors.BaseValidatorBehavior<T>
+  fullName.vb: DelSole.MVVMSpecial.Behaviors.BaseValidatorBehavior(Of T)
+  nameWithType: BaseValidatorBehavior<T>
+  nameWithType.vb: BaseValidatorBehavior(Of T)
+- uid: DelSole.MVVMSpecial.Behaviors.BaseValidatorBehavior`1.IsValid
+  name: IsValid
+  href: api/DelSole.MVVMSpecial.Behaviors.BaseValidatorBehavior-1.html#DelSole_MVVMSpecial_Behaviors_BaseValidatorBehavior_1_IsValid
+  commentId: P:DelSole.MVVMSpecial.Behaviors.BaseValidatorBehavior`1.IsValid
+  fullName: DelSole.MVVMSpecial.Behaviors.BaseValidatorBehavior<T>.IsValid
+  fullName.vb: DelSole.MVVMSpecial.Behaviors.BaseValidatorBehavior(Of T).IsValid
+  nameWithType: BaseValidatorBehavior<T>.IsValid
+  nameWithType.vb: BaseValidatorBehavior(Of T).IsValid
+- uid: DelSole.MVVMSpecial.Behaviors.BaseValidatorBehavior`1.IsValid*
+  name: IsValid
+  href: api/DelSole.MVVMSpecial.Behaviors.BaseValidatorBehavior-1.html#DelSole_MVVMSpecial_Behaviors_BaseValidatorBehavior_1_IsValid_
+  commentId: Overload:DelSole.MVVMSpecial.Behaviors.BaseValidatorBehavior`1.IsValid
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Behaviors.BaseValidatorBehavior<T>.IsValid
+  fullName.vb: DelSole.MVVMSpecial.Behaviors.BaseValidatorBehavior(Of T).IsValid
+  nameWithType: BaseValidatorBehavior<T>.IsValid
+  nameWithType.vb: BaseValidatorBehavior(Of T).IsValid
+- uid: DelSole.MVVMSpecial.Behaviors.BaseValidatorBehavior`1.IsValidProperty
+  name: IsValidProperty
+  href: api/DelSole.MVVMSpecial.Behaviors.BaseValidatorBehavior-1.html#DelSole_MVVMSpecial_Behaviors_BaseValidatorBehavior_1_IsValidProperty
+  commentId: F:DelSole.MVVMSpecial.Behaviors.BaseValidatorBehavior`1.IsValidProperty
+  fullName: DelSole.MVVMSpecial.Behaviors.BaseValidatorBehavior<T>.IsValidProperty
+  fullName.vb: DelSole.MVVMSpecial.Behaviors.BaseValidatorBehavior(Of T).IsValidProperty
+  nameWithType: BaseValidatorBehavior<T>.IsValidProperty
+  nameWithType.vb: BaseValidatorBehavior(Of T).IsValidProperty
+- uid: DelSole.MVVMSpecial.Behaviors.BehaviorBase`1
+  name: BehaviorBase<T>
+  href: api/DelSole.MVVMSpecial.Behaviors.BehaviorBase-1.html
+  commentId: T:DelSole.MVVMSpecial.Behaviors.BehaviorBase`1
+  name.vb: BehaviorBase(Of T)
+  fullName: DelSole.MVVMSpecial.Behaviors.BehaviorBase<T>
+  fullName.vb: DelSole.MVVMSpecial.Behaviors.BehaviorBase(Of T)
+  nameWithType: BehaviorBase<T>
+  nameWithType.vb: BehaviorBase(Of T)
+- uid: DelSole.MVVMSpecial.Behaviors.BehaviorBase`1.AssociatedObject
+  name: AssociatedObject
+  href: api/DelSole.MVVMSpecial.Behaviors.BehaviorBase-1.html#DelSole_MVVMSpecial_Behaviors_BehaviorBase_1_AssociatedObject
+  commentId: P:DelSole.MVVMSpecial.Behaviors.BehaviorBase`1.AssociatedObject
+  fullName: DelSole.MVVMSpecial.Behaviors.BehaviorBase<T>.AssociatedObject
+  fullName.vb: DelSole.MVVMSpecial.Behaviors.BehaviorBase(Of T).AssociatedObject
+  nameWithType: BehaviorBase<T>.AssociatedObject
+  nameWithType.vb: BehaviorBase(Of T).AssociatedObject
+- uid: DelSole.MVVMSpecial.Behaviors.BehaviorBase`1.AssociatedObject*
+  name: AssociatedObject
+  href: api/DelSole.MVVMSpecial.Behaviors.BehaviorBase-1.html#DelSole_MVVMSpecial_Behaviors_BehaviorBase_1_AssociatedObject_
+  commentId: Overload:DelSole.MVVMSpecial.Behaviors.BehaviorBase`1.AssociatedObject
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Behaviors.BehaviorBase<T>.AssociatedObject
+  fullName.vb: DelSole.MVVMSpecial.Behaviors.BehaviorBase(Of T).AssociatedObject
+  nameWithType: BehaviorBase<T>.AssociatedObject
+  nameWithType.vb: BehaviorBase(Of T).AssociatedObject
+- uid: DelSole.MVVMSpecial.Behaviors.BehaviorBase`1.OnAttachedTo(`0)
+  name: OnAttachedTo(T)
+  href: api/DelSole.MVVMSpecial.Behaviors.BehaviorBase-1.html#DelSole_MVVMSpecial_Behaviors_BehaviorBase_1_OnAttachedTo__0_
+  commentId: M:DelSole.MVVMSpecial.Behaviors.BehaviorBase`1.OnAttachedTo(`0)
+  fullName: DelSole.MVVMSpecial.Behaviors.BehaviorBase<T>.OnAttachedTo(T)
+  fullName.vb: DelSole.MVVMSpecial.Behaviors.BehaviorBase(Of T).OnAttachedTo(T)
+  nameWithType: BehaviorBase<T>.OnAttachedTo(T)
+  nameWithType.vb: BehaviorBase(Of T).OnAttachedTo(T)
+- uid: DelSole.MVVMSpecial.Behaviors.BehaviorBase`1.OnAttachedTo*
+  name: OnAttachedTo
+  href: api/DelSole.MVVMSpecial.Behaviors.BehaviorBase-1.html#DelSole_MVVMSpecial_Behaviors_BehaviorBase_1_OnAttachedTo_
+  commentId: Overload:DelSole.MVVMSpecial.Behaviors.BehaviorBase`1.OnAttachedTo
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Behaviors.BehaviorBase<T>.OnAttachedTo
+  fullName.vb: DelSole.MVVMSpecial.Behaviors.BehaviorBase(Of T).OnAttachedTo
+  nameWithType: BehaviorBase<T>.OnAttachedTo
+  nameWithType.vb: BehaviorBase(Of T).OnAttachedTo
+- uid: DelSole.MVVMSpecial.Behaviors.BehaviorBase`1.OnBindingContextChanged
+  name: OnBindingContextChanged()
+  href: api/DelSole.MVVMSpecial.Behaviors.BehaviorBase-1.html#DelSole_MVVMSpecial_Behaviors_BehaviorBase_1_OnBindingContextChanged
+  commentId: M:DelSole.MVVMSpecial.Behaviors.BehaviorBase`1.OnBindingContextChanged
+  fullName: DelSole.MVVMSpecial.Behaviors.BehaviorBase<T>.OnBindingContextChanged()
+  fullName.vb: DelSole.MVVMSpecial.Behaviors.BehaviorBase(Of T).OnBindingContextChanged()
+  nameWithType: BehaviorBase<T>.OnBindingContextChanged()
+  nameWithType.vb: BehaviorBase(Of T).OnBindingContextChanged()
+- uid: DelSole.MVVMSpecial.Behaviors.BehaviorBase`1.OnBindingContextChanged*
+  name: OnBindingContextChanged
+  href: api/DelSole.MVVMSpecial.Behaviors.BehaviorBase-1.html#DelSole_MVVMSpecial_Behaviors_BehaviorBase_1_OnBindingContextChanged_
+  commentId: Overload:DelSole.MVVMSpecial.Behaviors.BehaviorBase`1.OnBindingContextChanged
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Behaviors.BehaviorBase<T>.OnBindingContextChanged
+  fullName.vb: DelSole.MVVMSpecial.Behaviors.BehaviorBase(Of T).OnBindingContextChanged
+  nameWithType: BehaviorBase<T>.OnBindingContextChanged
+  nameWithType.vb: BehaviorBase(Of T).OnBindingContextChanged
+- uid: DelSole.MVVMSpecial.Behaviors.BehaviorBase`1.OnDetachingFrom(`0)
+  name: OnDetachingFrom(T)
+  href: api/DelSole.MVVMSpecial.Behaviors.BehaviorBase-1.html#DelSole_MVVMSpecial_Behaviors_BehaviorBase_1_OnDetachingFrom__0_
+  commentId: M:DelSole.MVVMSpecial.Behaviors.BehaviorBase`1.OnDetachingFrom(`0)
+  fullName: DelSole.MVVMSpecial.Behaviors.BehaviorBase<T>.OnDetachingFrom(T)
+  fullName.vb: DelSole.MVVMSpecial.Behaviors.BehaviorBase(Of T).OnDetachingFrom(T)
+  nameWithType: BehaviorBase<T>.OnDetachingFrom(T)
+  nameWithType.vb: BehaviorBase(Of T).OnDetachingFrom(T)
+- uid: DelSole.MVVMSpecial.Behaviors.BehaviorBase`1.OnDetachingFrom*
+  name: OnDetachingFrom
+  href: api/DelSole.MVVMSpecial.Behaviors.BehaviorBase-1.html#DelSole_MVVMSpecial_Behaviors_BehaviorBase_1_OnDetachingFrom_
+  commentId: Overload:DelSole.MVVMSpecial.Behaviors.BehaviorBase`1.OnDetachingFrom
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Behaviors.BehaviorBase<T>.OnDetachingFrom
+  fullName.vb: DelSole.MVVMSpecial.Behaviors.BehaviorBase(Of T).OnDetachingFrom
+  nameWithType: BehaviorBase<T>.OnDetachingFrom
+  nameWithType.vb: BehaviorBase(Of T).OnDetachingFrom
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior
+  name: EventToCommandBehavior
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.html
+  commentId: T:DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior
+  nameWithType: EventToCommandBehavior
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.Command
+  name: Command
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.html#DelSole_MVVMSpecial_Behaviors_EventToCommandBehavior_Command
+  commentId: P:DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.Command
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.Command
+  nameWithType: EventToCommandBehavior.Command
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.Command*
+  name: Command
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.html#DelSole_MVVMSpecial_Behaviors_EventToCommandBehavior_Command_
+  commentId: Overload:DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.Command
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.Command
+  nameWithType: EventToCommandBehavior.Command
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.CommandParameter
+  name: CommandParameter
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.html#DelSole_MVVMSpecial_Behaviors_EventToCommandBehavior_CommandParameter
+  commentId: P:DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.CommandParameter
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.CommandParameter
+  nameWithType: EventToCommandBehavior.CommandParameter
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.CommandParameter*
+  name: CommandParameter
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.html#DelSole_MVVMSpecial_Behaviors_EventToCommandBehavior_CommandParameter_
+  commentId: Overload:DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.CommandParameter
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.CommandParameter
+  nameWithType: EventToCommandBehavior.CommandParameter
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.CommandParameterProperty
+  name: CommandParameterProperty
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.html#DelSole_MVVMSpecial_Behaviors_EventToCommandBehavior_CommandParameterProperty
+  commentId: F:DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.CommandParameterProperty
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.CommandParameterProperty
+  nameWithType: EventToCommandBehavior.CommandParameterProperty
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.CommandProperty
+  name: CommandProperty
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.html#DelSole_MVVMSpecial_Behaviors_EventToCommandBehavior_CommandProperty
+  commentId: F:DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.CommandProperty
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.CommandProperty
+  nameWithType: EventToCommandBehavior.CommandProperty
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.Converter
+  name: Converter
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.html#DelSole_MVVMSpecial_Behaviors_EventToCommandBehavior_Converter
+  commentId: P:DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.Converter
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.Converter
+  nameWithType: EventToCommandBehavior.Converter
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.Converter*
+  name: Converter
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.html#DelSole_MVVMSpecial_Behaviors_EventToCommandBehavior_Converter_
+  commentId: Overload:DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.Converter
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.Converter
+  nameWithType: EventToCommandBehavior.Converter
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.EventName
+  name: EventName
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.html#DelSole_MVVMSpecial_Behaviors_EventToCommandBehavior_EventName
+  commentId: P:DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.EventName
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.EventName
+  nameWithType: EventToCommandBehavior.EventName
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.EventName*
+  name: EventName
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.html#DelSole_MVVMSpecial_Behaviors_EventToCommandBehavior_EventName_
+  commentId: Overload:DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.EventName
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.EventName
+  nameWithType: EventToCommandBehavior.EventName
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.EventNameProperty
+  name: EventNameProperty
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.html#DelSole_MVVMSpecial_Behaviors_EventToCommandBehavior_EventNameProperty
+  commentId: F:DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.EventNameProperty
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.EventNameProperty
+  nameWithType: EventToCommandBehavior.EventNameProperty
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.InputConverterProperty
+  name: InputConverterProperty
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.html#DelSole_MVVMSpecial_Behaviors_EventToCommandBehavior_InputConverterProperty
+  commentId: F:DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.InputConverterProperty
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.InputConverterProperty
+  nameWithType: EventToCommandBehavior.InputConverterProperty
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.OnAttachedTo(Xamarin.Forms.View)
+  name: OnAttachedTo(View)
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.html#DelSole_MVVMSpecial_Behaviors_EventToCommandBehavior_OnAttachedTo_Xamarin_Forms_View_
+  commentId: M:DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.OnAttachedTo(Xamarin.Forms.View)
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.OnAttachedTo(Xamarin.Forms.View)
+  nameWithType: EventToCommandBehavior.OnAttachedTo(View)
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.OnAttachedTo*
+  name: OnAttachedTo
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.html#DelSole_MVVMSpecial_Behaviors_EventToCommandBehavior_OnAttachedTo_
+  commentId: Overload:DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.OnAttachedTo
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.OnAttachedTo
+  nameWithType: EventToCommandBehavior.OnAttachedTo
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.OnDetachingFrom(Xamarin.Forms.View)
+  name: OnDetachingFrom(View)
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.html#DelSole_MVVMSpecial_Behaviors_EventToCommandBehavior_OnDetachingFrom_Xamarin_Forms_View_
+  commentId: M:DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.OnDetachingFrom(Xamarin.Forms.View)
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.OnDetachingFrom(Xamarin.Forms.View)
+  nameWithType: EventToCommandBehavior.OnDetachingFrom(View)
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.OnDetachingFrom*
+  name: OnDetachingFrom
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.html#DelSole_MVVMSpecial_Behaviors_EventToCommandBehavior_OnDetachingFrom_
+  commentId: Overload:DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.OnDetachingFrom
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandBehavior.OnDetachingFrom
+  nameWithType: EventToCommandBehavior.OnDetachingFrom
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandPage
+  name: EventToCommandPage
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandPage.html
+  commentId: T:DelSole.MVVMSpecial.Behaviors.EventToCommandPage
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandPage
+  nameWithType: EventToCommandPage
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.Command
+  name: Command
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandPage.html#DelSole_MVVMSpecial_Behaviors_EventToCommandPage_Command
+  commentId: P:DelSole.MVVMSpecial.Behaviors.EventToCommandPage.Command
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.Command
+  nameWithType: EventToCommandPage.Command
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.Command*
+  name: Command
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandPage.html#DelSole_MVVMSpecial_Behaviors_EventToCommandPage_Command_
+  commentId: Overload:DelSole.MVVMSpecial.Behaviors.EventToCommandPage.Command
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.Command
+  nameWithType: EventToCommandPage.Command
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.CommandParameter
+  name: CommandParameter
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandPage.html#DelSole_MVVMSpecial_Behaviors_EventToCommandPage_CommandParameter
+  commentId: P:DelSole.MVVMSpecial.Behaviors.EventToCommandPage.CommandParameter
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.CommandParameter
+  nameWithType: EventToCommandPage.CommandParameter
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.CommandParameter*
+  name: CommandParameter
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandPage.html#DelSole_MVVMSpecial_Behaviors_EventToCommandPage_CommandParameter_
+  commentId: Overload:DelSole.MVVMSpecial.Behaviors.EventToCommandPage.CommandParameter
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.CommandParameter
+  nameWithType: EventToCommandPage.CommandParameter
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.CommandParameterProperty
+  name: CommandParameterProperty
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandPage.html#DelSole_MVVMSpecial_Behaviors_EventToCommandPage_CommandParameterProperty
+  commentId: F:DelSole.MVVMSpecial.Behaviors.EventToCommandPage.CommandParameterProperty
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.CommandParameterProperty
+  nameWithType: EventToCommandPage.CommandParameterProperty
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.CommandProperty
+  name: CommandProperty
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandPage.html#DelSole_MVVMSpecial_Behaviors_EventToCommandPage_CommandProperty
+  commentId: F:DelSole.MVVMSpecial.Behaviors.EventToCommandPage.CommandProperty
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.CommandProperty
+  nameWithType: EventToCommandPage.CommandProperty
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.Converter
+  name: Converter
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandPage.html#DelSole_MVVMSpecial_Behaviors_EventToCommandPage_Converter
+  commentId: P:DelSole.MVVMSpecial.Behaviors.EventToCommandPage.Converter
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.Converter
+  nameWithType: EventToCommandPage.Converter
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.Converter*
+  name: Converter
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandPage.html#DelSole_MVVMSpecial_Behaviors_EventToCommandPage_Converter_
+  commentId: Overload:DelSole.MVVMSpecial.Behaviors.EventToCommandPage.Converter
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.Converter
+  nameWithType: EventToCommandPage.Converter
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.EventName
+  name: EventName
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandPage.html#DelSole_MVVMSpecial_Behaviors_EventToCommandPage_EventName
+  commentId: P:DelSole.MVVMSpecial.Behaviors.EventToCommandPage.EventName
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.EventName
+  nameWithType: EventToCommandPage.EventName
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.EventName*
+  name: EventName
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandPage.html#DelSole_MVVMSpecial_Behaviors_EventToCommandPage_EventName_
+  commentId: Overload:DelSole.MVVMSpecial.Behaviors.EventToCommandPage.EventName
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.EventName
+  nameWithType: EventToCommandPage.EventName
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.EventNameProperty
+  name: EventNameProperty
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandPage.html#DelSole_MVVMSpecial_Behaviors_EventToCommandPage_EventNameProperty
+  commentId: F:DelSole.MVVMSpecial.Behaviors.EventToCommandPage.EventNameProperty
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.EventNameProperty
+  nameWithType: EventToCommandPage.EventNameProperty
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.InputConverterProperty
+  name: InputConverterProperty
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandPage.html#DelSole_MVVMSpecial_Behaviors_EventToCommandPage_InputConverterProperty
+  commentId: F:DelSole.MVVMSpecial.Behaviors.EventToCommandPage.InputConverterProperty
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.InputConverterProperty
+  nameWithType: EventToCommandPage.InputConverterProperty
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.OnAttachedTo(Xamarin.Forms.Page)
+  name: OnAttachedTo(Page)
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandPage.html#DelSole_MVVMSpecial_Behaviors_EventToCommandPage_OnAttachedTo_Xamarin_Forms_Page_
+  commentId: M:DelSole.MVVMSpecial.Behaviors.EventToCommandPage.OnAttachedTo(Xamarin.Forms.Page)
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.OnAttachedTo(Xamarin.Forms.Page)
+  nameWithType: EventToCommandPage.OnAttachedTo(Page)
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.OnAttachedTo*
+  name: OnAttachedTo
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandPage.html#DelSole_MVVMSpecial_Behaviors_EventToCommandPage_OnAttachedTo_
+  commentId: Overload:DelSole.MVVMSpecial.Behaviors.EventToCommandPage.OnAttachedTo
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.OnAttachedTo
+  nameWithType: EventToCommandPage.OnAttachedTo
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.OnDetachingFrom(Xamarin.Forms.Page)
+  name: OnDetachingFrom(Page)
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandPage.html#DelSole_MVVMSpecial_Behaviors_EventToCommandPage_OnDetachingFrom_Xamarin_Forms_Page_
+  commentId: M:DelSole.MVVMSpecial.Behaviors.EventToCommandPage.OnDetachingFrom(Xamarin.Forms.Page)
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.OnDetachingFrom(Xamarin.Forms.Page)
+  nameWithType: EventToCommandPage.OnDetachingFrom(Page)
+- uid: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.OnDetachingFrom*
+  name: OnDetachingFrom
+  href: api/DelSole.MVVMSpecial.Behaviors.EventToCommandPage.html#DelSole_MVVMSpecial_Behaviors_EventToCommandPage_OnDetachingFrom_
+  commentId: Overload:DelSole.MVVMSpecial.Behaviors.EventToCommandPage.OnDetachingFrom
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Behaviors.EventToCommandPage.OnDetachingFrom
+  nameWithType: EventToCommandPage.OnDetachingFrom
+- uid: DelSole.MVVMSpecial.Behaviors.FieldEmptyValidatorBehavior
+  name: FieldEmptyValidatorBehavior
+  href: api/DelSole.MVVMSpecial.Behaviors.FieldEmptyValidatorBehavior.html
+  commentId: T:DelSole.MVVMSpecial.Behaviors.FieldEmptyValidatorBehavior
+  fullName: DelSole.MVVMSpecial.Behaviors.FieldEmptyValidatorBehavior
+  nameWithType: FieldEmptyValidatorBehavior
+- uid: DelSole.MVVMSpecial.Behaviors.FieldEmptyValidatorBehavior.OnAttachedTo(Xamarin.Forms.Entry)
+  name: OnAttachedTo(Entry)
+  href: api/DelSole.MVVMSpecial.Behaviors.FieldEmptyValidatorBehavior.html#DelSole_MVVMSpecial_Behaviors_FieldEmptyValidatorBehavior_OnAttachedTo_Xamarin_Forms_Entry_
+  commentId: M:DelSole.MVVMSpecial.Behaviors.FieldEmptyValidatorBehavior.OnAttachedTo(Xamarin.Forms.Entry)
+  fullName: DelSole.MVVMSpecial.Behaviors.FieldEmptyValidatorBehavior.OnAttachedTo(Xamarin.Forms.Entry)
+  nameWithType: FieldEmptyValidatorBehavior.OnAttachedTo(Entry)
+- uid: DelSole.MVVMSpecial.Behaviors.FieldEmptyValidatorBehavior.OnAttachedTo*
+  name: OnAttachedTo
+  href: api/DelSole.MVVMSpecial.Behaviors.FieldEmptyValidatorBehavior.html#DelSole_MVVMSpecial_Behaviors_FieldEmptyValidatorBehavior_OnAttachedTo_
+  commentId: Overload:DelSole.MVVMSpecial.Behaviors.FieldEmptyValidatorBehavior.OnAttachedTo
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Behaviors.FieldEmptyValidatorBehavior.OnAttachedTo
+  nameWithType: FieldEmptyValidatorBehavior.OnAttachedTo
+- uid: DelSole.MVVMSpecial.Behaviors.FieldEmptyValidatorBehavior.OnDetachingFrom(Xamarin.Forms.Entry)
+  name: OnDetachingFrom(Entry)
+  href: api/DelSole.MVVMSpecial.Behaviors.FieldEmptyValidatorBehavior.html#DelSole_MVVMSpecial_Behaviors_FieldEmptyValidatorBehavior_OnDetachingFrom_Xamarin_Forms_Entry_
+  commentId: M:DelSole.MVVMSpecial.Behaviors.FieldEmptyValidatorBehavior.OnDetachingFrom(Xamarin.Forms.Entry)
+  fullName: DelSole.MVVMSpecial.Behaviors.FieldEmptyValidatorBehavior.OnDetachingFrom(Xamarin.Forms.Entry)
+  nameWithType: FieldEmptyValidatorBehavior.OnDetachingFrom(Entry)
+- uid: DelSole.MVVMSpecial.Behaviors.FieldEmptyValidatorBehavior.OnDetachingFrom*
+  name: OnDetachingFrom
+  href: api/DelSole.MVVMSpecial.Behaviors.FieldEmptyValidatorBehavior.html#DelSole_MVVMSpecial_Behaviors_FieldEmptyValidatorBehavior_OnDetachingFrom_
+  commentId: Overload:DelSole.MVVMSpecial.Behaviors.FieldEmptyValidatorBehavior.OnDetachingFrom
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Behaviors.FieldEmptyValidatorBehavior.OnDetachingFrom
+  nameWithType: FieldEmptyValidatorBehavior.OnDetachingFrom
+- uid: DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior
+  name: FieldLengthValidatorBehavior
+  href: api/DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.html
+  commentId: T:DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior
+  fullName: DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior
+  nameWithType: FieldLengthValidatorBehavior
+- uid: DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.MaxLength
+  name: MaxLength
+  href: api/DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.html#DelSole_MVVMSpecial_Behaviors_FieldLengthValidatorBehavior_MaxLength
+  commentId: P:DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.MaxLength
+  fullName: DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.MaxLength
+  nameWithType: FieldLengthValidatorBehavior.MaxLength
+- uid: DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.MaxLength*
+  name: MaxLength
+  href: api/DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.html#DelSole_MVVMSpecial_Behaviors_FieldLengthValidatorBehavior_MaxLength_
+  commentId: Overload:DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.MaxLength
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.MaxLength
+  nameWithType: FieldLengthValidatorBehavior.MaxLength
+- uid: DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.MaxLengthProperty
+  name: MaxLengthProperty
+  href: api/DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.html#DelSole_MVVMSpecial_Behaviors_FieldLengthValidatorBehavior_MaxLengthProperty
+  commentId: F:DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.MaxLengthProperty
+  fullName: DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.MaxLengthProperty
+  nameWithType: FieldLengthValidatorBehavior.MaxLengthProperty
+- uid: DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.OnAttachedTo(Xamarin.Forms.Entry)
+  name: OnAttachedTo(Entry)
+  href: api/DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.html#DelSole_MVVMSpecial_Behaviors_FieldLengthValidatorBehavior_OnAttachedTo_Xamarin_Forms_Entry_
+  commentId: M:DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.OnAttachedTo(Xamarin.Forms.Entry)
+  fullName: DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.OnAttachedTo(Xamarin.Forms.Entry)
+  nameWithType: FieldLengthValidatorBehavior.OnAttachedTo(Entry)
+- uid: DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.OnAttachedTo*
+  name: OnAttachedTo
+  href: api/DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.html#DelSole_MVVMSpecial_Behaviors_FieldLengthValidatorBehavior_OnAttachedTo_
+  commentId: Overload:DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.OnAttachedTo
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.OnAttachedTo
+  nameWithType: FieldLengthValidatorBehavior.OnAttachedTo
+- uid: DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.OnDetachingFrom(Xamarin.Forms.Entry)
+  name: OnDetachingFrom(Entry)
+  href: api/DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.html#DelSole_MVVMSpecial_Behaviors_FieldLengthValidatorBehavior_OnDetachingFrom_Xamarin_Forms_Entry_
+  commentId: M:DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.OnDetachingFrom(Xamarin.Forms.Entry)
+  fullName: DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.OnDetachingFrom(Xamarin.Forms.Entry)
+  nameWithType: FieldLengthValidatorBehavior.OnDetachingFrom(Entry)
+- uid: DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.OnDetachingFrom*
+  name: OnDetachingFrom
+  href: api/DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.html#DelSole_MVVMSpecial_Behaviors_FieldLengthValidatorBehavior_OnDetachingFrom_
+  commentId: Overload:DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.OnDetachingFrom
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Behaviors.FieldLengthValidatorBehavior.OnDetachingFrom
+  nameWithType: FieldLengthValidatorBehavior.OnDetachingFrom
+- uid: DelSole.MVVMSpecial.Behaviors.IValidatorBehavior
+  name: IValidatorBehavior
+  href: api/DelSole.MVVMSpecial.Behaviors.IValidatorBehavior.html
+  commentId: T:DelSole.MVVMSpecial.Behaviors.IValidatorBehavior
+  fullName: DelSole.MVVMSpecial.Behaviors.IValidatorBehavior
+  nameWithType: IValidatorBehavior
+- uid: DelSole.MVVMSpecial.Behaviors.IValidatorBehavior.IsValid
+  name: IsValid
+  href: api/DelSole.MVVMSpecial.Behaviors.IValidatorBehavior.html#DelSole_MVVMSpecial_Behaviors_IValidatorBehavior_IsValid
+  commentId: P:DelSole.MVVMSpecial.Behaviors.IValidatorBehavior.IsValid
+  fullName: DelSole.MVVMSpecial.Behaviors.IValidatorBehavior.IsValid
+  nameWithType: IValidatorBehavior.IsValid
+- uid: DelSole.MVVMSpecial.Behaviors.IValidatorBehavior.IsValid*
+  name: IsValid
+  href: api/DelSole.MVVMSpecial.Behaviors.IValidatorBehavior.html#DelSole_MVVMSpecial_Behaviors_IValidatorBehavior_IsValid_
+  commentId: Overload:DelSole.MVVMSpecial.Behaviors.IValidatorBehavior.IsValid
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Behaviors.IValidatorBehavior.IsValid
+  nameWithType: IValidatorBehavior.IsValid
+- uid: DelSole.MVVMSpecial.Behaviors.Validation
+  name: Validation
+  href: api/DelSole.MVVMSpecial.Behaviors.Validation.html
+  commentId: T:DelSole.MVVMSpecial.Behaviors.Validation
+  fullName: DelSole.MVVMSpecial.Behaviors.Validation
+  nameWithType: Validation
+- uid: DelSole.MVVMSpecial.Behaviors.Validation.ValidationErrors
+  name: ValidationErrors
+  href: api/DelSole.MVVMSpecial.Behaviors.Validation.html#DelSole_MVVMSpecial_Behaviors_Validation_ValidationErrors
+  commentId: P:DelSole.MVVMSpecial.Behaviors.Validation.ValidationErrors
+  fullName: DelSole.MVVMSpecial.Behaviors.Validation.ValidationErrors
+  nameWithType: Validation.ValidationErrors
+- uid: DelSole.MVVMSpecial.Behaviors.Validation.ValidationErrors*
+  name: ValidationErrors
+  href: api/DelSole.MVVMSpecial.Behaviors.Validation.html#DelSole_MVVMSpecial_Behaviors_Validation_ValidationErrors_
+  commentId: Overload:DelSole.MVVMSpecial.Behaviors.Validation.ValidationErrors
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Behaviors.Validation.ValidationErrors
+  nameWithType: Validation.ValidationErrors
+- uid: DelSole.MVVMSpecial.Converters
+  name: DelSole.MVVMSpecial.Converters
+  href: api/DelSole.MVVMSpecial.Converters.html
+  commentId: N:DelSole.MVVMSpecial.Converters
+  fullName: DelSole.MVVMSpecial.Converters
+  nameWithType: DelSole.MVVMSpecial.Converters
+- uid: DelSole.MVVMSpecial.Converters.BoolToObjectConverter`1
+  name: BoolToObjectConverter<T>
+  href: api/DelSole.MVVMSpecial.Converters.BoolToObjectConverter-1.html
+  commentId: T:DelSole.MVVMSpecial.Converters.BoolToObjectConverter`1
+  name.vb: BoolToObjectConverter(Of T)
+  fullName: DelSole.MVVMSpecial.Converters.BoolToObjectConverter<T>
+  fullName.vb: DelSole.MVVMSpecial.Converters.BoolToObjectConverter(Of T)
+  nameWithType: BoolToObjectConverter<T>
+  nameWithType.vb: BoolToObjectConverter(Of T)
+- uid: DelSole.MVVMSpecial.Converters.BoolToObjectConverter`1.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  name: Convert(Object, Type, Object, CultureInfo)
+  href: api/DelSole.MVVMSpecial.Converters.BoolToObjectConverter-1.html#DelSole_MVVMSpecial_Converters_BoolToObjectConverter_1_Convert_System_Object_System_Type_System_Object_System_Globalization_CultureInfo_
+  commentId: M:DelSole.MVVMSpecial.Converters.BoolToObjectConverter`1.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  fullName: DelSole.MVVMSpecial.Converters.BoolToObjectConverter<T>.Convert(System.Object, System.Type, System.Object, System.Globalization.CultureInfo)
+  fullName.vb: DelSole.MVVMSpecial.Converters.BoolToObjectConverter(Of T).Convert(System.Object, System.Type, System.Object, System.Globalization.CultureInfo)
+  nameWithType: BoolToObjectConverter<T>.Convert(Object, Type, Object, CultureInfo)
+  nameWithType.vb: BoolToObjectConverter(Of T).Convert(Object, Type, Object, CultureInfo)
+- uid: DelSole.MVVMSpecial.Converters.BoolToObjectConverter`1.Convert*
+  name: Convert
+  href: api/DelSole.MVVMSpecial.Converters.BoolToObjectConverter-1.html#DelSole_MVVMSpecial_Converters_BoolToObjectConverter_1_Convert_
+  commentId: Overload:DelSole.MVVMSpecial.Converters.BoolToObjectConverter`1.Convert
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Converters.BoolToObjectConverter<T>.Convert
+  fullName.vb: DelSole.MVVMSpecial.Converters.BoolToObjectConverter(Of T).Convert
+  nameWithType: BoolToObjectConverter<T>.Convert
+  nameWithType.vb: BoolToObjectConverter(Of T).Convert
+- uid: DelSole.MVVMSpecial.Converters.BoolToObjectConverter`1.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  name: ConvertBack(Object, Type, Object, CultureInfo)
+  href: api/DelSole.MVVMSpecial.Converters.BoolToObjectConverter-1.html#DelSole_MVVMSpecial_Converters_BoolToObjectConverter_1_ConvertBack_System_Object_System_Type_System_Object_System_Globalization_CultureInfo_
+  commentId: M:DelSole.MVVMSpecial.Converters.BoolToObjectConverter`1.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  fullName: DelSole.MVVMSpecial.Converters.BoolToObjectConverter<T>.ConvertBack(System.Object, System.Type, System.Object, System.Globalization.CultureInfo)
+  fullName.vb: DelSole.MVVMSpecial.Converters.BoolToObjectConverter(Of T).ConvertBack(System.Object, System.Type, System.Object, System.Globalization.CultureInfo)
+  nameWithType: BoolToObjectConverter<T>.ConvertBack(Object, Type, Object, CultureInfo)
+  nameWithType.vb: BoolToObjectConverter(Of T).ConvertBack(Object, Type, Object, CultureInfo)
+- uid: DelSole.MVVMSpecial.Converters.BoolToObjectConverter`1.ConvertBack*
+  name: ConvertBack
+  href: api/DelSole.MVVMSpecial.Converters.BoolToObjectConverter-1.html#DelSole_MVVMSpecial_Converters_BoolToObjectConverter_1_ConvertBack_
+  commentId: Overload:DelSole.MVVMSpecial.Converters.BoolToObjectConverter`1.ConvertBack
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Converters.BoolToObjectConverter<T>.ConvertBack
+  fullName.vb: DelSole.MVVMSpecial.Converters.BoolToObjectConverter(Of T).ConvertBack
+  nameWithType: BoolToObjectConverter<T>.ConvertBack
+  nameWithType.vb: BoolToObjectConverter(Of T).ConvertBack
+- uid: DelSole.MVVMSpecial.Converters.BoolToObjectConverter`1.FalseObject
+  name: FalseObject
+  href: api/DelSole.MVVMSpecial.Converters.BoolToObjectConverter-1.html#DelSole_MVVMSpecial_Converters_BoolToObjectConverter_1_FalseObject
+  commentId: P:DelSole.MVVMSpecial.Converters.BoolToObjectConverter`1.FalseObject
+  fullName: DelSole.MVVMSpecial.Converters.BoolToObjectConverter<T>.FalseObject
+  fullName.vb: DelSole.MVVMSpecial.Converters.BoolToObjectConverter(Of T).FalseObject
+  nameWithType: BoolToObjectConverter<T>.FalseObject
+  nameWithType.vb: BoolToObjectConverter(Of T).FalseObject
+- uid: DelSole.MVVMSpecial.Converters.BoolToObjectConverter`1.FalseObject*
+  name: FalseObject
+  href: api/DelSole.MVVMSpecial.Converters.BoolToObjectConverter-1.html#DelSole_MVVMSpecial_Converters_BoolToObjectConverter_1_FalseObject_
+  commentId: Overload:DelSole.MVVMSpecial.Converters.BoolToObjectConverter`1.FalseObject
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Converters.BoolToObjectConverter<T>.FalseObject
+  fullName.vb: DelSole.MVVMSpecial.Converters.BoolToObjectConverter(Of T).FalseObject
+  nameWithType: BoolToObjectConverter<T>.FalseObject
+  nameWithType.vb: BoolToObjectConverter(Of T).FalseObject
+- uid: DelSole.MVVMSpecial.Converters.BoolToObjectConverter`1.TrueObject
+  name: TrueObject
+  href: api/DelSole.MVVMSpecial.Converters.BoolToObjectConverter-1.html#DelSole_MVVMSpecial_Converters_BoolToObjectConverter_1_TrueObject
+  commentId: P:DelSole.MVVMSpecial.Converters.BoolToObjectConverter`1.TrueObject
+  fullName: DelSole.MVVMSpecial.Converters.BoolToObjectConverter<T>.TrueObject
+  fullName.vb: DelSole.MVVMSpecial.Converters.BoolToObjectConverter(Of T).TrueObject
+  nameWithType: BoolToObjectConverter<T>.TrueObject
+  nameWithType.vb: BoolToObjectConverter(Of T).TrueObject
+- uid: DelSole.MVVMSpecial.Converters.BoolToObjectConverter`1.TrueObject*
+  name: TrueObject
+  href: api/DelSole.MVVMSpecial.Converters.BoolToObjectConverter-1.html#DelSole_MVVMSpecial_Converters_BoolToObjectConverter_1_TrueObject_
+  commentId: Overload:DelSole.MVVMSpecial.Converters.BoolToObjectConverter`1.TrueObject
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Converters.BoolToObjectConverter<T>.TrueObject
+  fullName.vb: DelSole.MVVMSpecial.Converters.BoolToObjectConverter(Of T).TrueObject
+  nameWithType: BoolToObjectConverter<T>.TrueObject
+  nameWithType.vb: BoolToObjectConverter(Of T).TrueObject
+- uid: DelSole.MVVMSpecial.Converters.ByteToImageConverter
+  name: ByteToImageConverter
+  href: api/DelSole.MVVMSpecial.Converters.ByteToImageConverter.html
+  commentId: T:DelSole.MVVMSpecial.Converters.ByteToImageConverter
+  fullName: DelSole.MVVMSpecial.Converters.ByteToImageConverter
+  nameWithType: ByteToImageConverter
+- uid: DelSole.MVVMSpecial.Converters.ByteToImageConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  name: Convert(Object, Type, Object, CultureInfo)
+  href: api/DelSole.MVVMSpecial.Converters.ByteToImageConverter.html#DelSole_MVVMSpecial_Converters_ByteToImageConverter_Convert_System_Object_System_Type_System_Object_System_Globalization_CultureInfo_
+  commentId: M:DelSole.MVVMSpecial.Converters.ByteToImageConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  fullName: DelSole.MVVMSpecial.Converters.ByteToImageConverter.Convert(System.Object, System.Type, System.Object, System.Globalization.CultureInfo)
+  nameWithType: ByteToImageConverter.Convert(Object, Type, Object, CultureInfo)
+- uid: DelSole.MVVMSpecial.Converters.ByteToImageConverter.Convert*
+  name: Convert
+  href: api/DelSole.MVVMSpecial.Converters.ByteToImageConverter.html#DelSole_MVVMSpecial_Converters_ByteToImageConverter_Convert_
+  commentId: Overload:DelSole.MVVMSpecial.Converters.ByteToImageConverter.Convert
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Converters.ByteToImageConverter.Convert
+  nameWithType: ByteToImageConverter.Convert
+- uid: DelSole.MVVMSpecial.Converters.ByteToImageConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  name: ConvertBack(Object, Type, Object, CultureInfo)
+  href: api/DelSole.MVVMSpecial.Converters.ByteToImageConverter.html#DelSole_MVVMSpecial_Converters_ByteToImageConverter_ConvertBack_System_Object_System_Type_System_Object_System_Globalization_CultureInfo_
+  commentId: M:DelSole.MVVMSpecial.Converters.ByteToImageConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  fullName: DelSole.MVVMSpecial.Converters.ByteToImageConverter.ConvertBack(System.Object, System.Type, System.Object, System.Globalization.CultureInfo)
+  nameWithType: ByteToImageConverter.ConvertBack(Object, Type, Object, CultureInfo)
+- uid: DelSole.MVVMSpecial.Converters.ByteToImageConverter.ConvertBack*
+  name: ConvertBack
+  href: api/DelSole.MVVMSpecial.Converters.ByteToImageConverter.html#DelSole_MVVMSpecial_Converters_ByteToImageConverter_ConvertBack_
+  commentId: Overload:DelSole.MVVMSpecial.Converters.ByteToImageConverter.ConvertBack
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Converters.ByteToImageConverter.ConvertBack
+  nameWithType: ByteToImageConverter.ConvertBack
+- uid: DelSole.MVVMSpecial.Converters.EnumToStringConverter
+  name: EnumToStringConverter
+  href: api/DelSole.MVVMSpecial.Converters.EnumToStringConverter.html
+  commentId: T:DelSole.MVVMSpecial.Converters.EnumToStringConverter
+  fullName: DelSole.MVVMSpecial.Converters.EnumToStringConverter
+  nameWithType: EnumToStringConverter
+- uid: DelSole.MVVMSpecial.Converters.EnumToStringConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  name: Convert(Object, Type, Object, CultureInfo)
+  href: api/DelSole.MVVMSpecial.Converters.EnumToStringConverter.html#DelSole_MVVMSpecial_Converters_EnumToStringConverter_Convert_System_Object_System_Type_System_Object_System_Globalization_CultureInfo_
+  commentId: M:DelSole.MVVMSpecial.Converters.EnumToStringConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  fullName: DelSole.MVVMSpecial.Converters.EnumToStringConverter.Convert(System.Object, System.Type, System.Object, System.Globalization.CultureInfo)
+  nameWithType: EnumToStringConverter.Convert(Object, Type, Object, CultureInfo)
+- uid: DelSole.MVVMSpecial.Converters.EnumToStringConverter.Convert*
+  name: Convert
+  href: api/DelSole.MVVMSpecial.Converters.EnumToStringConverter.html#DelSole_MVVMSpecial_Converters_EnumToStringConverter_Convert_
+  commentId: Overload:DelSole.MVVMSpecial.Converters.EnumToStringConverter.Convert
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Converters.EnumToStringConverter.Convert
+  nameWithType: EnumToStringConverter.Convert
+- uid: DelSole.MVVMSpecial.Converters.EnumToStringConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  name: ConvertBack(Object, Type, Object, CultureInfo)
+  href: api/DelSole.MVVMSpecial.Converters.EnumToStringConverter.html#DelSole_MVVMSpecial_Converters_EnumToStringConverter_ConvertBack_System_Object_System_Type_System_Object_System_Globalization_CultureInfo_
+  commentId: M:DelSole.MVVMSpecial.Converters.EnumToStringConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  fullName: DelSole.MVVMSpecial.Converters.EnumToStringConverter.ConvertBack(System.Object, System.Type, System.Object, System.Globalization.CultureInfo)
+  nameWithType: EnumToStringConverter.ConvertBack(Object, Type, Object, CultureInfo)
+- uid: DelSole.MVVMSpecial.Converters.EnumToStringConverter.ConvertBack*
+  name: ConvertBack
+  href: api/DelSole.MVVMSpecial.Converters.EnumToStringConverter.html#DelSole_MVVMSpecial_Converters_EnumToStringConverter_ConvertBack_
+  commentId: Overload:DelSole.MVVMSpecial.Converters.EnumToStringConverter.ConvertBack
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Converters.EnumToStringConverter.ConvertBack
+  nameWithType: EnumToStringConverter.ConvertBack
+- uid: DelSole.MVVMSpecial.Converters.EnumToStringConverter.GetDescription(System.Enum)
+  name: GetDescription(Enum)
+  href: api/DelSole.MVVMSpecial.Converters.EnumToStringConverter.html#DelSole_MVVMSpecial_Converters_EnumToStringConverter_GetDescription_System_Enum_
+  commentId: M:DelSole.MVVMSpecial.Converters.EnumToStringConverter.GetDescription(System.Enum)
+  fullName: DelSole.MVVMSpecial.Converters.EnumToStringConverter.GetDescription(System.Enum)
+  nameWithType: EnumToStringConverter.GetDescription(Enum)
+- uid: DelSole.MVVMSpecial.Converters.EnumToStringConverter.GetDescription*
+  name: GetDescription
+  href: api/DelSole.MVVMSpecial.Converters.EnumToStringConverter.html#DelSole_MVVMSpecial_Converters_EnumToStringConverter_GetDescription_
+  commentId: Overload:DelSole.MVVMSpecial.Converters.EnumToStringConverter.GetDescription
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Converters.EnumToStringConverter.GetDescription
+  nameWithType: EnumToStringConverter.GetDescription
+- uid: DelSole.MVVMSpecial.Converters.IntToBoolConverter
+  name: IntToBoolConverter
+  href: api/DelSole.MVVMSpecial.Converters.IntToBoolConverter.html
+  commentId: T:DelSole.MVVMSpecial.Converters.IntToBoolConverter
+  fullName: DelSole.MVVMSpecial.Converters.IntToBoolConverter
+  nameWithType: IntToBoolConverter
+- uid: DelSole.MVVMSpecial.Converters.IntToBoolConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  name: Convert(Object, Type, Object, CultureInfo)
+  href: api/DelSole.MVVMSpecial.Converters.IntToBoolConverter.html#DelSole_MVVMSpecial_Converters_IntToBoolConverter_Convert_System_Object_System_Type_System_Object_System_Globalization_CultureInfo_
+  commentId: M:DelSole.MVVMSpecial.Converters.IntToBoolConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  fullName: DelSole.MVVMSpecial.Converters.IntToBoolConverter.Convert(System.Object, System.Type, System.Object, System.Globalization.CultureInfo)
+  nameWithType: IntToBoolConverter.Convert(Object, Type, Object, CultureInfo)
+- uid: DelSole.MVVMSpecial.Converters.IntToBoolConverter.Convert*
+  name: Convert
+  href: api/DelSole.MVVMSpecial.Converters.IntToBoolConverter.html#DelSole_MVVMSpecial_Converters_IntToBoolConverter_Convert_
+  commentId: Overload:DelSole.MVVMSpecial.Converters.IntToBoolConverter.Convert
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Converters.IntToBoolConverter.Convert
+  nameWithType: IntToBoolConverter.Convert
+- uid: DelSole.MVVMSpecial.Converters.IntToBoolConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  name: ConvertBack(Object, Type, Object, CultureInfo)
+  href: api/DelSole.MVVMSpecial.Converters.IntToBoolConverter.html#DelSole_MVVMSpecial_Converters_IntToBoolConverter_ConvertBack_System_Object_System_Type_System_Object_System_Globalization_CultureInfo_
+  commentId: M:DelSole.MVVMSpecial.Converters.IntToBoolConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  fullName: DelSole.MVVMSpecial.Converters.IntToBoolConverter.ConvertBack(System.Object, System.Type, System.Object, System.Globalization.CultureInfo)
+  nameWithType: IntToBoolConverter.ConvertBack(Object, Type, Object, CultureInfo)
+- uid: DelSole.MVVMSpecial.Converters.IntToBoolConverter.ConvertBack*
+  name: ConvertBack
+  href: api/DelSole.MVVMSpecial.Converters.IntToBoolConverter.html#DelSole_MVVMSpecial_Converters_IntToBoolConverter_ConvertBack_
+  commentId: Overload:DelSole.MVVMSpecial.Converters.IntToBoolConverter.ConvertBack
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Converters.IntToBoolConverter.ConvertBack
+  nameWithType: IntToBoolConverter.ConvertBack
+- uid: DelSole.MVVMSpecial.Converters.LongToShortDateConverter
+  name: LongToShortDateConverter
+  href: api/DelSole.MVVMSpecial.Converters.LongToShortDateConverter.html
+  commentId: T:DelSole.MVVMSpecial.Converters.LongToShortDateConverter
+  fullName: DelSole.MVVMSpecial.Converters.LongToShortDateConverter
+  nameWithType: LongToShortDateConverter
+- uid: DelSole.MVVMSpecial.Converters.LongToShortDateConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  name: Convert(Object, Type, Object, CultureInfo)
+  href: api/DelSole.MVVMSpecial.Converters.LongToShortDateConverter.html#DelSole_MVVMSpecial_Converters_LongToShortDateConverter_Convert_System_Object_System_Type_System_Object_System_Globalization_CultureInfo_
+  commentId: M:DelSole.MVVMSpecial.Converters.LongToShortDateConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  fullName: DelSole.MVVMSpecial.Converters.LongToShortDateConverter.Convert(System.Object, System.Type, System.Object, System.Globalization.CultureInfo)
+  nameWithType: LongToShortDateConverter.Convert(Object, Type, Object, CultureInfo)
+- uid: DelSole.MVVMSpecial.Converters.LongToShortDateConverter.Convert*
+  name: Convert
+  href: api/DelSole.MVVMSpecial.Converters.LongToShortDateConverter.html#DelSole_MVVMSpecial_Converters_LongToShortDateConverter_Convert_
+  commentId: Overload:DelSole.MVVMSpecial.Converters.LongToShortDateConverter.Convert
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Converters.LongToShortDateConverter.Convert
+  nameWithType: LongToShortDateConverter.Convert
+- uid: DelSole.MVVMSpecial.Converters.LongToShortDateConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  name: ConvertBack(Object, Type, Object, CultureInfo)
+  href: api/DelSole.MVVMSpecial.Converters.LongToShortDateConverter.html#DelSole_MVVMSpecial_Converters_LongToShortDateConverter_ConvertBack_System_Object_System_Type_System_Object_System_Globalization_CultureInfo_
+  commentId: M:DelSole.MVVMSpecial.Converters.LongToShortDateConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  fullName: DelSole.MVVMSpecial.Converters.LongToShortDateConverter.ConvertBack(System.Object, System.Type, System.Object, System.Globalization.CultureInfo)
+  nameWithType: LongToShortDateConverter.ConvertBack(Object, Type, Object, CultureInfo)
+- uid: DelSole.MVVMSpecial.Converters.LongToShortDateConverter.ConvertBack*
+  name: ConvertBack
+  href: api/DelSole.MVVMSpecial.Converters.LongToShortDateConverter.html#DelSole_MVVMSpecial_Converters_LongToShortDateConverter_ConvertBack_
+  commentId: Overload:DelSole.MVVMSpecial.Converters.LongToShortDateConverter.ConvertBack
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Converters.LongToShortDateConverter.ConvertBack
+  nameWithType: LongToShortDateConverter.ConvertBack
+- uid: DelSole.MVVMSpecial.Converters.NegateBooleanConverter
+  name: NegateBooleanConverter
+  href: api/DelSole.MVVMSpecial.Converters.NegateBooleanConverter.html
+  commentId: T:DelSole.MVVMSpecial.Converters.NegateBooleanConverter
+  fullName: DelSole.MVVMSpecial.Converters.NegateBooleanConverter
+  nameWithType: NegateBooleanConverter
+- uid: DelSole.MVVMSpecial.Converters.NegateBooleanConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  name: Convert(Object, Type, Object, CultureInfo)
+  href: api/DelSole.MVVMSpecial.Converters.NegateBooleanConverter.html#DelSole_MVVMSpecial_Converters_NegateBooleanConverter_Convert_System_Object_System_Type_System_Object_System_Globalization_CultureInfo_
+  commentId: M:DelSole.MVVMSpecial.Converters.NegateBooleanConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  fullName: DelSole.MVVMSpecial.Converters.NegateBooleanConverter.Convert(System.Object, System.Type, System.Object, System.Globalization.CultureInfo)
+  nameWithType: NegateBooleanConverter.Convert(Object, Type, Object, CultureInfo)
+- uid: DelSole.MVVMSpecial.Converters.NegateBooleanConverter.Convert*
+  name: Convert
+  href: api/DelSole.MVVMSpecial.Converters.NegateBooleanConverter.html#DelSole_MVVMSpecial_Converters_NegateBooleanConverter_Convert_
+  commentId: Overload:DelSole.MVVMSpecial.Converters.NegateBooleanConverter.Convert
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Converters.NegateBooleanConverter.Convert
+  nameWithType: NegateBooleanConverter.Convert
+- uid: DelSole.MVVMSpecial.Converters.NegateBooleanConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  name: ConvertBack(Object, Type, Object, CultureInfo)
+  href: api/DelSole.MVVMSpecial.Converters.NegateBooleanConverter.html#DelSole_MVVMSpecial_Converters_NegateBooleanConverter_ConvertBack_System_Object_System_Type_System_Object_System_Globalization_CultureInfo_
+  commentId: M:DelSole.MVVMSpecial.Converters.NegateBooleanConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  fullName: DelSole.MVVMSpecial.Converters.NegateBooleanConverter.ConvertBack(System.Object, System.Type, System.Object, System.Globalization.CultureInfo)
+  nameWithType: NegateBooleanConverter.ConvertBack(Object, Type, Object, CultureInfo)
+- uid: DelSole.MVVMSpecial.Converters.NegateBooleanConverter.ConvertBack*
+  name: ConvertBack
+  href: api/DelSole.MVVMSpecial.Converters.NegateBooleanConverter.html#DelSole_MVVMSpecial_Converters_NegateBooleanConverter_ConvertBack_
+  commentId: Overload:DelSole.MVVMSpecial.Converters.NegateBooleanConverter.ConvertBack
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Converters.NegateBooleanConverter.ConvertBack
+  nameWithType: NegateBooleanConverter.ConvertBack
+- uid: DelSole.MVVMSpecial.Converters.StringToTitleCaseConverter
+  name: StringToTitleCaseConverter
+  href: api/DelSole.MVVMSpecial.Converters.StringToTitleCaseConverter.html
+  commentId: T:DelSole.MVVMSpecial.Converters.StringToTitleCaseConverter
+  fullName: DelSole.MVVMSpecial.Converters.StringToTitleCaseConverter
+  nameWithType: StringToTitleCaseConverter
+- uid: DelSole.MVVMSpecial.Converters.StringToTitleCaseConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  name: Convert(Object, Type, Object, CultureInfo)
+  href: api/DelSole.MVVMSpecial.Converters.StringToTitleCaseConverter.html#DelSole_MVVMSpecial_Converters_StringToTitleCaseConverter_Convert_System_Object_System_Type_System_Object_System_Globalization_CultureInfo_
+  commentId: M:DelSole.MVVMSpecial.Converters.StringToTitleCaseConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  fullName: DelSole.MVVMSpecial.Converters.StringToTitleCaseConverter.Convert(System.Object, System.Type, System.Object, System.Globalization.CultureInfo)
+  nameWithType: StringToTitleCaseConverter.Convert(Object, Type, Object, CultureInfo)
+- uid: DelSole.MVVMSpecial.Converters.StringToTitleCaseConverter.Convert*
+  name: Convert
+  href: api/DelSole.MVVMSpecial.Converters.StringToTitleCaseConverter.html#DelSole_MVVMSpecial_Converters_StringToTitleCaseConverter_Convert_
+  commentId: Overload:DelSole.MVVMSpecial.Converters.StringToTitleCaseConverter.Convert
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Converters.StringToTitleCaseConverter.Convert
+  nameWithType: StringToTitleCaseConverter.Convert
+- uid: DelSole.MVVMSpecial.Converters.StringToTitleCaseConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  name: ConvertBack(Object, Type, Object, CultureInfo)
+  href: api/DelSole.MVVMSpecial.Converters.StringToTitleCaseConverter.html#DelSole_MVVMSpecial_Converters_StringToTitleCaseConverter_ConvertBack_System_Object_System_Type_System_Object_System_Globalization_CultureInfo_
+  commentId: M:DelSole.MVVMSpecial.Converters.StringToTitleCaseConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  fullName: DelSole.MVVMSpecial.Converters.StringToTitleCaseConverter.ConvertBack(System.Object, System.Type, System.Object, System.Globalization.CultureInfo)
+  nameWithType: StringToTitleCaseConverter.ConvertBack(Object, Type, Object, CultureInfo)
+- uid: DelSole.MVVMSpecial.Converters.StringToTitleCaseConverter.ConvertBack*
+  name: ConvertBack
+  href: api/DelSole.MVVMSpecial.Converters.StringToTitleCaseConverter.html#DelSole_MVVMSpecial_Converters_StringToTitleCaseConverter_ConvertBack_
+  commentId: Overload:DelSole.MVVMSpecial.Converters.StringToTitleCaseConverter.ConvertBack
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Converters.StringToTitleCaseConverter.ConvertBack
+  nameWithType: StringToTitleCaseConverter.ConvertBack
+- uid: DelSole.MVVMSpecial.Converters.StringToUpperCaseConverter
+  name: StringToUpperCaseConverter
+  href: api/DelSole.MVVMSpecial.Converters.StringToUpperCaseConverter.html
+  commentId: T:DelSole.MVVMSpecial.Converters.StringToUpperCaseConverter
+  fullName: DelSole.MVVMSpecial.Converters.StringToUpperCaseConverter
+  nameWithType: StringToUpperCaseConverter
+- uid: DelSole.MVVMSpecial.Converters.StringToUpperCaseConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  name: Convert(Object, Type, Object, CultureInfo)
+  href: api/DelSole.MVVMSpecial.Converters.StringToUpperCaseConverter.html#DelSole_MVVMSpecial_Converters_StringToUpperCaseConverter_Convert_System_Object_System_Type_System_Object_System_Globalization_CultureInfo_
+  commentId: M:DelSole.MVVMSpecial.Converters.StringToUpperCaseConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  fullName: DelSole.MVVMSpecial.Converters.StringToUpperCaseConverter.Convert(System.Object, System.Type, System.Object, System.Globalization.CultureInfo)
+  nameWithType: StringToUpperCaseConverter.Convert(Object, Type, Object, CultureInfo)
+- uid: DelSole.MVVMSpecial.Converters.StringToUpperCaseConverter.Convert*
+  name: Convert
+  href: api/DelSole.MVVMSpecial.Converters.StringToUpperCaseConverter.html#DelSole_MVVMSpecial_Converters_StringToUpperCaseConverter_Convert_
+  commentId: Overload:DelSole.MVVMSpecial.Converters.StringToUpperCaseConverter.Convert
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Converters.StringToUpperCaseConverter.Convert
+  nameWithType: StringToUpperCaseConverter.Convert
+- uid: DelSole.MVVMSpecial.Converters.StringToUpperCaseConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  name: ConvertBack(Object, Type, Object, CultureInfo)
+  href: api/DelSole.MVVMSpecial.Converters.StringToUpperCaseConverter.html#DelSole_MVVMSpecial_Converters_StringToUpperCaseConverter_ConvertBack_System_Object_System_Type_System_Object_System_Globalization_CultureInfo_
+  commentId: M:DelSole.MVVMSpecial.Converters.StringToUpperCaseConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)
+  fullName: DelSole.MVVMSpecial.Converters.StringToUpperCaseConverter.ConvertBack(System.Object, System.Type, System.Object, System.Globalization.CultureInfo)
+  nameWithType: StringToUpperCaseConverter.ConvertBack(Object, Type, Object, CultureInfo)
+- uid: DelSole.MVVMSpecial.Converters.StringToUpperCaseConverter.ConvertBack*
+  name: ConvertBack
+  href: api/DelSole.MVVMSpecial.Converters.StringToUpperCaseConverter.html#DelSole_MVVMSpecial_Converters_StringToUpperCaseConverter_ConvertBack_
+  commentId: Overload:DelSole.MVVMSpecial.Converters.StringToUpperCaseConverter.ConvertBack
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Converters.StringToUpperCaseConverter.ConvertBack
+  nameWithType: StringToUpperCaseConverter.ConvertBack
+- uid: DelSole.MVVMSpecial.Helpers
+  name: DelSole.MVVMSpecial.Helpers
+  href: api/DelSole.MVVMSpecial.Helpers.html
+  commentId: N:DelSole.MVVMSpecial.Helpers
+  fullName: DelSole.MVVMSpecial.Helpers
+  nameWithType: DelSole.MVVMSpecial.Helpers
+- uid: DelSole.MVVMSpecial.Helpers.Extensions
+  name: Extensions
+  href: api/DelSole.MVVMSpecial.Helpers.Extensions.html
+  commentId: T:DelSole.MVVMSpecial.Helpers.Extensions
+  fullName: DelSole.MVVMSpecial.Helpers.Extensions
+  nameWithType: Extensions
+- uid: DelSole.MVVMSpecial.Helpers.Extensions.ToObservableCollection*
+  name: ToObservableCollection
+  href: api/DelSole.MVVMSpecial.Helpers.Extensions.html#DelSole_MVVMSpecial_Helpers_Extensions_ToObservableCollection_
+  commentId: Overload:DelSole.MVVMSpecial.Helpers.Extensions.ToObservableCollection
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Helpers.Extensions.ToObservableCollection
+  nameWithType: Extensions.ToObservableCollection
+- uid: DelSole.MVVMSpecial.Helpers.Extensions.ToObservableCollection``1(System.Collections.Generic.IEnumerable{``0})
+  name: ToObservableCollection<T>(IEnumerable<T>)
+  href: api/DelSole.MVVMSpecial.Helpers.Extensions.html#DelSole_MVVMSpecial_Helpers_Extensions_ToObservableCollection__1_System_Collections_Generic_IEnumerable___0__
+  commentId: M:DelSole.MVVMSpecial.Helpers.Extensions.ToObservableCollection``1(System.Collections.Generic.IEnumerable{``0})
+  name.vb: ToObservableCollection(Of T)(IEnumerable(Of T))
+  fullName: DelSole.MVVMSpecial.Helpers.Extensions.ToObservableCollection<T>(System.Collections.Generic.IEnumerable<T>)
+  fullName.vb: DelSole.MVVMSpecial.Helpers.Extensions.ToObservableCollection(Of T)(System.Collections.Generic.IEnumerable(Of T))
+  nameWithType: Extensions.ToObservableCollection<T>(IEnumerable<T>)
+  nameWithType.vb: Extensions.ToObservableCollection(Of T)(IEnumerable(Of T))
+- uid: DelSole.MVVMSpecial.Helpers.Extensions.ToTitleCase(System.String,System.String)
+  name: ToTitleCase(String, String)
+  href: api/DelSole.MVVMSpecial.Helpers.Extensions.html#DelSole_MVVMSpecial_Helpers_Extensions_ToTitleCase_System_String_System_String_
+  commentId: M:DelSole.MVVMSpecial.Helpers.Extensions.ToTitleCase(System.String,System.String)
+  fullName: DelSole.MVVMSpecial.Helpers.Extensions.ToTitleCase(System.String, System.String)
+  nameWithType: Extensions.ToTitleCase(String, String)
+- uid: DelSole.MVVMSpecial.Helpers.Extensions.ToTitleCase*
+  name: ToTitleCase
+  href: api/DelSole.MVVMSpecial.Helpers.Extensions.html#DelSole_MVVMSpecial_Helpers_Extensions_ToTitleCase_
+  commentId: Overload:DelSole.MVVMSpecial.Helpers.Extensions.ToTitleCase
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Helpers.Extensions.ToTitleCase
+  nameWithType: Extensions.ToTitleCase
+- uid: DelSole.MVVMSpecial.Helpers.MessagingCenterAlert
+  name: MessagingCenterAlert
+  href: api/DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.html
+  commentId: T:DelSole.MVVMSpecial.Helpers.MessagingCenterAlert
+  fullName: DelSole.MVVMSpecial.Helpers.MessagingCenterAlert
+  nameWithType: MessagingCenterAlert
+- uid: DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.Cancel
+  name: Cancel
+  href: api/DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.html#DelSole_MVVMSpecial_Helpers_MessagingCenterAlert_Cancel
+  commentId: P:DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.Cancel
+  fullName: DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.Cancel
+  nameWithType: MessagingCenterAlert.Cancel
+- uid: DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.Cancel*
+  name: Cancel
+  href: api/DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.html#DelSole_MVVMSpecial_Helpers_MessagingCenterAlert_Cancel_
+  commentId: Overload:DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.Cancel
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.Cancel
+  nameWithType: MessagingCenterAlert.Cancel
+- uid: DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.Message
+  name: Message
+  href: api/DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.html#DelSole_MVVMSpecial_Helpers_MessagingCenterAlert_Message
+  commentId: P:DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.Message
+  fullName: DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.Message
+  nameWithType: MessagingCenterAlert.Message
+- uid: DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.Message*
+  name: Message
+  href: api/DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.html#DelSole_MVVMSpecial_Helpers_MessagingCenterAlert_Message_
+  commentId: Overload:DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.Message
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.Message
+  nameWithType: MessagingCenterAlert.Message
+- uid: DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.OnCompleted
+  name: OnCompleted
+  href: api/DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.html#DelSole_MVVMSpecial_Helpers_MessagingCenterAlert_OnCompleted
+  commentId: P:DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.OnCompleted
+  fullName: DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.OnCompleted
+  nameWithType: MessagingCenterAlert.OnCompleted
+- uid: DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.OnCompleted*
+  name: OnCompleted
+  href: api/DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.html#DelSole_MVVMSpecial_Helpers_MessagingCenterAlert_OnCompleted_
+  commentId: Overload:DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.OnCompleted
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.OnCompleted
+  nameWithType: MessagingCenterAlert.OnCompleted
+- uid: DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.Title
+  name: Title
+  href: api/DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.html#DelSole_MVVMSpecial_Helpers_MessagingCenterAlert_Title
+  commentId: P:DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.Title
+  fullName: DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.Title
+  nameWithType: MessagingCenterAlert.Title
+- uid: DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.Title*
+  name: Title
+  href: api/DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.html#DelSole_MVVMSpecial_Helpers_MessagingCenterAlert_Title_
+  commentId: Overload:DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.Title
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.Title
+  nameWithType: MessagingCenterAlert.Title
+- uid: DelSole.MVVMSpecial.Helpers.NotifyBase
+  name: NotifyBase
+  href: api/DelSole.MVVMSpecial.Helpers.NotifyBase.html
+  commentId: T:DelSole.MVVMSpecial.Helpers.NotifyBase
+  fullName: DelSole.MVVMSpecial.Helpers.NotifyBase
+  nameWithType: NotifyBase
+- uid: DelSole.MVVMSpecial.Helpers.NotifyBase.OnPropertyChanged(System.String)
+  name: OnPropertyChanged(String)
+  href: api/DelSole.MVVMSpecial.Helpers.NotifyBase.html#DelSole_MVVMSpecial_Helpers_NotifyBase_OnPropertyChanged_System_String_
+  commentId: M:DelSole.MVVMSpecial.Helpers.NotifyBase.OnPropertyChanged(System.String)
+  fullName: DelSole.MVVMSpecial.Helpers.NotifyBase.OnPropertyChanged(System.String)
+  nameWithType: NotifyBase.OnPropertyChanged(String)
+- uid: DelSole.MVVMSpecial.Helpers.NotifyBase.OnPropertyChanged*
+  name: OnPropertyChanged
+  href: api/DelSole.MVVMSpecial.Helpers.NotifyBase.html#DelSole_MVVMSpecial_Helpers_NotifyBase_OnPropertyChanged_
+  commentId: Overload:DelSole.MVVMSpecial.Helpers.NotifyBase.OnPropertyChanged
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Helpers.NotifyBase.OnPropertyChanged
+  nameWithType: NotifyBase.OnPropertyChanged
+- uid: DelSole.MVVMSpecial.Helpers.NotifyBase.PropertyChanged
+  name: PropertyChanged
+  href: api/DelSole.MVVMSpecial.Helpers.NotifyBase.html#DelSole_MVVMSpecial_Helpers_NotifyBase_PropertyChanged
+  commentId: E:DelSole.MVVMSpecial.Helpers.NotifyBase.PropertyChanged
+  fullName: DelSole.MVVMSpecial.Helpers.NotifyBase.PropertyChanged
+  nameWithType: NotifyBase.PropertyChanged
+- uid: DelSole.MVVMSpecial.Helpers.NotifyBase.SetProperty*
+  name: SetProperty
+  href: api/DelSole.MVVMSpecial.Helpers.NotifyBase.html#DelSole_MVVMSpecial_Helpers_NotifyBase_SetProperty_
+  commentId: Overload:DelSole.MVVMSpecial.Helpers.NotifyBase.SetProperty
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Helpers.NotifyBase.SetProperty
+  nameWithType: NotifyBase.SetProperty
+- uid: DelSole.MVVMSpecial.Helpers.NotifyBase.SetProperty``1(``0@,``0,System.String,System.Action)
+  name: SetProperty<T>(ref T, T, String, Action)
+  href: api/DelSole.MVVMSpecial.Helpers.NotifyBase.html#DelSole_MVVMSpecial_Helpers_NotifyBase_SetProperty__1___0____0_System_String_System_Action_
+  commentId: M:DelSole.MVVMSpecial.Helpers.NotifyBase.SetProperty``1(``0@,``0,System.String,System.Action)
+  name.vb: SetProperty(Of T)(ByRef T, T, String, Action)
+  fullName: DelSole.MVVMSpecial.Helpers.NotifyBase.SetProperty<T>(ref T, T, System.String, System.Action)
+  fullName.vb: DelSole.MVVMSpecial.Helpers.NotifyBase.SetProperty(Of T)(ByRef T, T, System.String, System.Action)
+  nameWithType: NotifyBase.SetProperty<T>(ref T, T, String, Action)
+  nameWithType.vb: NotifyBase.SetProperty(Of T)(ByRef T, T, String, Action)
+- uid: DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion
+  name: NotifyTaskCompletion
+  href: api/DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.html
+  commentId: T:DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion
+  fullName: DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion
+  nameWithType: NotifyTaskCompletion
+- uid: DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.Create(System.Func{System.Threading.Tasks.Task})
+  name: Create(Func<Task>)
+  href: api/DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.html#DelSole_MVVMSpecial_Helpers_NotifyTaskCompletion_Create_System_Func_System_Threading_Tasks_Task__
+  commentId: M:DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.Create(System.Func{System.Threading.Tasks.Task})
+  name.vb: Create(Func(Of Task))
+  fullName: DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.Create(System.Func<System.Threading.Tasks.Task>)
+  fullName.vb: DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.Create(System.Func(Of System.Threading.Tasks.Task))
+  nameWithType: NotifyTaskCompletion.Create(Func<Task>)
+  nameWithType.vb: NotifyTaskCompletion.Create(Func(Of Task))
+- uid: DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.Create(System.Threading.Tasks.Task)
+  name: Create(Task)
+  href: api/DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.html#DelSole_MVVMSpecial_Helpers_NotifyTaskCompletion_Create_System_Threading_Tasks_Task_
+  commentId: M:DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.Create(System.Threading.Tasks.Task)
+  fullName: DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.Create(System.Threading.Tasks.Task)
+  nameWithType: NotifyTaskCompletion.Create(Task)
+- uid: DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.Create*
+  name: Create
+  href: api/DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.html#DelSole_MVVMSpecial_Helpers_NotifyTaskCompletion_Create_
+  commentId: Overload:DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.Create
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.Create
+  nameWithType: NotifyTaskCompletion.Create
+- uid: DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.Create``1(System.Func{System.Threading.Tasks.Task{``0}})
+  name: Create<TResult>(Func<Task<TResult>>)
+  href: api/DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.html#DelSole_MVVMSpecial_Helpers_NotifyTaskCompletion_Create__1_System_Func_System_Threading_Tasks_Task___0___
+  commentId: M:DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.Create``1(System.Func{System.Threading.Tasks.Task{``0}})
+  name.vb: Create(Of TResult)(Func(Of Task(Of TResult)))
+  fullName: DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.Create<TResult>(System.Func<System.Threading.Tasks.Task<TResult>>)
+  fullName.vb: DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.Create(Of TResult)(System.Func(Of System.Threading.Tasks.Task(Of TResult)))
+  nameWithType: NotifyTaskCompletion.Create<TResult>(Func<Task<TResult>>)
+  nameWithType.vb: NotifyTaskCompletion.Create(Of TResult)(Func(Of Task(Of TResult)))
+- uid: DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.Create``1(System.Threading.Tasks.Task{``0})
+  name: Create<TResult>(Task<TResult>)
+  href: api/DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.html#DelSole_MVVMSpecial_Helpers_NotifyTaskCompletion_Create__1_System_Threading_Tasks_Task___0__
+  commentId: M:DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.Create``1(System.Threading.Tasks.Task{``0})
+  name.vb: Create(Of TResult)(Task(Of TResult))
+  fullName: DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.Create<TResult>(System.Threading.Tasks.Task<TResult>)
+  fullName.vb: DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion.Create(Of TResult)(System.Threading.Tasks.Task(Of TResult))
+  nameWithType: NotifyTaskCompletion.Create<TResult>(Task<TResult>)
+  nameWithType.vb: NotifyTaskCompletion.Create(Of TResult)(Task(Of TResult))
+- uid: DelSole.MVVMSpecial.Helpers.RelayCommand
+  name: RelayCommand
+  href: api/DelSole.MVVMSpecial.Helpers.RelayCommand.html
+  commentId: T:DelSole.MVVMSpecial.Helpers.RelayCommand
+  fullName: DelSole.MVVMSpecial.Helpers.RelayCommand
+  nameWithType: RelayCommand
+- uid: DelSole.MVVMSpecial.Helpers.RelayCommand.#ctor(System.Action)
+  name: RelayCommand(Action)
+  href: api/DelSole.MVVMSpecial.Helpers.RelayCommand.html#DelSole_MVVMSpecial_Helpers_RelayCommand__ctor_System_Action_
+  commentId: M:DelSole.MVVMSpecial.Helpers.RelayCommand.#ctor(System.Action)
+  fullName: DelSole.MVVMSpecial.Helpers.RelayCommand.RelayCommand(System.Action)
+  nameWithType: RelayCommand.RelayCommand(Action)
+- uid: DelSole.MVVMSpecial.Helpers.RelayCommand.#ctor(System.Action,System.Func{System.Boolean})
+  name: RelayCommand(Action, Func<Boolean>)
+  href: api/DelSole.MVVMSpecial.Helpers.RelayCommand.html#DelSole_MVVMSpecial_Helpers_RelayCommand__ctor_System_Action_System_Func_System_Boolean__
+  commentId: M:DelSole.MVVMSpecial.Helpers.RelayCommand.#ctor(System.Action,System.Func{System.Boolean})
+  name.vb: RelayCommand(Action, Func(Of Boolean))
+  fullName: DelSole.MVVMSpecial.Helpers.RelayCommand.RelayCommand(System.Action, System.Func<System.Boolean>)
+  fullName.vb: DelSole.MVVMSpecial.Helpers.RelayCommand.RelayCommand(System.Action, System.Func(Of System.Boolean))
+  nameWithType: RelayCommand.RelayCommand(Action, Func<Boolean>)
+  nameWithType.vb: RelayCommand.RelayCommand(Action, Func(Of Boolean))
+- uid: DelSole.MVVMSpecial.Helpers.RelayCommand.#ctor*
+  name: RelayCommand
+  href: api/DelSole.MVVMSpecial.Helpers.RelayCommand.html#DelSole_MVVMSpecial_Helpers_RelayCommand__ctor_
+  commentId: Overload:DelSole.MVVMSpecial.Helpers.RelayCommand.#ctor
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Helpers.RelayCommand.RelayCommand
+  nameWithType: RelayCommand.RelayCommand
+- uid: DelSole.MVVMSpecial.Helpers.RelayCommand.CanExecute(System.Object)
+  name: CanExecute(Object)
+  href: api/DelSole.MVVMSpecial.Helpers.RelayCommand.html#DelSole_MVVMSpecial_Helpers_RelayCommand_CanExecute_System_Object_
+  commentId: M:DelSole.MVVMSpecial.Helpers.RelayCommand.CanExecute(System.Object)
+  fullName: DelSole.MVVMSpecial.Helpers.RelayCommand.CanExecute(System.Object)
+  nameWithType: RelayCommand.CanExecute(Object)
+- uid: DelSole.MVVMSpecial.Helpers.RelayCommand.CanExecute*
+  name: CanExecute
+  href: api/DelSole.MVVMSpecial.Helpers.RelayCommand.html#DelSole_MVVMSpecial_Helpers_RelayCommand_CanExecute_
+  commentId: Overload:DelSole.MVVMSpecial.Helpers.RelayCommand.CanExecute
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Helpers.RelayCommand.CanExecute
+  nameWithType: RelayCommand.CanExecute
+- uid: DelSole.MVVMSpecial.Helpers.RelayCommand.CanExecuteChanged
+  name: CanExecuteChanged
+  href: api/DelSole.MVVMSpecial.Helpers.RelayCommand.html#DelSole_MVVMSpecial_Helpers_RelayCommand_CanExecuteChanged
+  commentId: E:DelSole.MVVMSpecial.Helpers.RelayCommand.CanExecuteChanged
+  fullName: DelSole.MVVMSpecial.Helpers.RelayCommand.CanExecuteChanged
+  nameWithType: RelayCommand.CanExecuteChanged
+- uid: DelSole.MVVMSpecial.Helpers.RelayCommand.Execute(System.Object)
+  name: Execute(Object)
+  href: api/DelSole.MVVMSpecial.Helpers.RelayCommand.html#DelSole_MVVMSpecial_Helpers_RelayCommand_Execute_System_Object_
+  commentId: M:DelSole.MVVMSpecial.Helpers.RelayCommand.Execute(System.Object)
+  fullName: DelSole.MVVMSpecial.Helpers.RelayCommand.Execute(System.Object)
+  nameWithType: RelayCommand.Execute(Object)
+- uid: DelSole.MVVMSpecial.Helpers.RelayCommand.Execute*
+  name: Execute
+  href: api/DelSole.MVVMSpecial.Helpers.RelayCommand.html#DelSole_MVVMSpecial_Helpers_RelayCommand_Execute_
+  commentId: Overload:DelSole.MVVMSpecial.Helpers.RelayCommand.Execute
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Helpers.RelayCommand.Execute
+  nameWithType: RelayCommand.Execute
+- uid: DelSole.MVVMSpecial.Helpers.RelayCommand.RaiseCanExecuteChanged
+  name: RaiseCanExecuteChanged()
+  href: api/DelSole.MVVMSpecial.Helpers.RelayCommand.html#DelSole_MVVMSpecial_Helpers_RelayCommand_RaiseCanExecuteChanged
+  commentId: M:DelSole.MVVMSpecial.Helpers.RelayCommand.RaiseCanExecuteChanged
+  fullName: DelSole.MVVMSpecial.Helpers.RelayCommand.RaiseCanExecuteChanged()
+  nameWithType: RelayCommand.RaiseCanExecuteChanged()
+- uid: DelSole.MVVMSpecial.Helpers.RelayCommand.RaiseCanExecuteChanged*
+  name: RaiseCanExecuteChanged
+  href: api/DelSole.MVVMSpecial.Helpers.RelayCommand.html#DelSole_MVVMSpecial_Helpers_RelayCommand_RaiseCanExecuteChanged_
+  commentId: Overload:DelSole.MVVMSpecial.Helpers.RelayCommand.RaiseCanExecuteChanged
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Helpers.RelayCommand.RaiseCanExecuteChanged
+  nameWithType: RelayCommand.RaiseCanExecuteChanged
+- uid: DelSole.MVVMSpecial.Helpers.RelayCommand`1
+  name: RelayCommand<T>
+  href: api/DelSole.MVVMSpecial.Helpers.RelayCommand-1.html
+  commentId: T:DelSole.MVVMSpecial.Helpers.RelayCommand`1
+  name.vb: RelayCommand(Of T)
+  fullName: DelSole.MVVMSpecial.Helpers.RelayCommand<T>
+  fullName.vb: DelSole.MVVMSpecial.Helpers.RelayCommand(Of T)
+  nameWithType: RelayCommand<T>
+  nameWithType.vb: RelayCommand(Of T)
+- uid: DelSole.MVVMSpecial.Helpers.RelayCommand`1.#ctor(System.Action{`0})
+  name: RelayCommand(Action<T>)
+  href: api/DelSole.MVVMSpecial.Helpers.RelayCommand-1.html#DelSole_MVVMSpecial_Helpers_RelayCommand_1__ctor_System_Action__0__
+  commentId: M:DelSole.MVVMSpecial.Helpers.RelayCommand`1.#ctor(System.Action{`0})
+  name.vb: RelayCommand(Action(Of T))
+  fullName: DelSole.MVVMSpecial.Helpers.RelayCommand<T>.RelayCommand(System.Action<T>)
+  fullName.vb: DelSole.MVVMSpecial.Helpers.RelayCommand(Of T).RelayCommand(System.Action(Of T))
+  nameWithType: RelayCommand<T>.RelayCommand(Action<T>)
+  nameWithType.vb: RelayCommand(Of T).RelayCommand(Action(Of T))
+- uid: DelSole.MVVMSpecial.Helpers.RelayCommand`1.#ctor(System.Action{`0},System.Predicate{`0})
+  name: RelayCommand(Action<T>, Predicate<T>)
+  href: api/DelSole.MVVMSpecial.Helpers.RelayCommand-1.html#DelSole_MVVMSpecial_Helpers_RelayCommand_1__ctor_System_Action__0__System_Predicate__0__
+  commentId: M:DelSole.MVVMSpecial.Helpers.RelayCommand`1.#ctor(System.Action{`0},System.Predicate{`0})
+  name.vb: RelayCommand(Action(Of T), Predicate(Of T))
+  fullName: DelSole.MVVMSpecial.Helpers.RelayCommand<T>.RelayCommand(System.Action<T>, System.Predicate<T>)
+  fullName.vb: DelSole.MVVMSpecial.Helpers.RelayCommand(Of T).RelayCommand(System.Action(Of T), System.Predicate(Of T))
+  nameWithType: RelayCommand<T>.RelayCommand(Action<T>, Predicate<T>)
+  nameWithType.vb: RelayCommand(Of T).RelayCommand(Action(Of T), Predicate(Of T))
+- uid: DelSole.MVVMSpecial.Helpers.RelayCommand`1.#ctor*
+  name: RelayCommand
+  href: api/DelSole.MVVMSpecial.Helpers.RelayCommand-1.html#DelSole_MVVMSpecial_Helpers_RelayCommand_1__ctor_
+  commentId: Overload:DelSole.MVVMSpecial.Helpers.RelayCommand`1.#ctor
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Helpers.RelayCommand<T>.RelayCommand
+  fullName.vb: DelSole.MVVMSpecial.Helpers.RelayCommand(Of T).RelayCommand
+  nameWithType: RelayCommand<T>.RelayCommand
+  nameWithType.vb: RelayCommand(Of T).RelayCommand
+- uid: DelSole.MVVMSpecial.Helpers.RelayCommand`1.CanExecute(System.Object)
+  name: CanExecute(Object)
+  href: api/DelSole.MVVMSpecial.Helpers.RelayCommand-1.html#DelSole_MVVMSpecial_Helpers_RelayCommand_1_CanExecute_System_Object_
+  commentId: M:DelSole.MVVMSpecial.Helpers.RelayCommand`1.CanExecute(System.Object)
+  fullName: DelSole.MVVMSpecial.Helpers.RelayCommand<T>.CanExecute(System.Object)
+  fullName.vb: DelSole.MVVMSpecial.Helpers.RelayCommand(Of T).CanExecute(System.Object)
+  nameWithType: RelayCommand<T>.CanExecute(Object)
+  nameWithType.vb: RelayCommand(Of T).CanExecute(Object)
+- uid: DelSole.MVVMSpecial.Helpers.RelayCommand`1.CanExecute*
+  name: CanExecute
+  href: api/DelSole.MVVMSpecial.Helpers.RelayCommand-1.html#DelSole_MVVMSpecial_Helpers_RelayCommand_1_CanExecute_
+  commentId: Overload:DelSole.MVVMSpecial.Helpers.RelayCommand`1.CanExecute
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Helpers.RelayCommand<T>.CanExecute
+  fullName.vb: DelSole.MVVMSpecial.Helpers.RelayCommand(Of T).CanExecute
+  nameWithType: RelayCommand<T>.CanExecute
+  nameWithType.vb: RelayCommand(Of T).CanExecute
+- uid: DelSole.MVVMSpecial.Helpers.RelayCommand`1.CanExecuteChanged
+  name: CanExecuteChanged
+  href: api/DelSole.MVVMSpecial.Helpers.RelayCommand-1.html#DelSole_MVVMSpecial_Helpers_RelayCommand_1_CanExecuteChanged
+  commentId: E:DelSole.MVVMSpecial.Helpers.RelayCommand`1.CanExecuteChanged
+  fullName: DelSole.MVVMSpecial.Helpers.RelayCommand<T>.CanExecuteChanged
+  fullName.vb: DelSole.MVVMSpecial.Helpers.RelayCommand(Of T).CanExecuteChanged
+  nameWithType: RelayCommand<T>.CanExecuteChanged
+  nameWithType.vb: RelayCommand(Of T).CanExecuteChanged
+- uid: DelSole.MVVMSpecial.Helpers.RelayCommand`1.Execute(System.Object)
+  name: Execute(Object)
+  href: api/DelSole.MVVMSpecial.Helpers.RelayCommand-1.html#DelSole_MVVMSpecial_Helpers_RelayCommand_1_Execute_System_Object_
+  commentId: M:DelSole.MVVMSpecial.Helpers.RelayCommand`1.Execute(System.Object)
+  fullName: DelSole.MVVMSpecial.Helpers.RelayCommand<T>.Execute(System.Object)
+  fullName.vb: DelSole.MVVMSpecial.Helpers.RelayCommand(Of T).Execute(System.Object)
+  nameWithType: RelayCommand<T>.Execute(Object)
+  nameWithType.vb: RelayCommand(Of T).Execute(Object)
+- uid: DelSole.MVVMSpecial.Helpers.RelayCommand`1.Execute*
+  name: Execute
+  href: api/DelSole.MVVMSpecial.Helpers.RelayCommand-1.html#DelSole_MVVMSpecial_Helpers_RelayCommand_1_Execute_
+  commentId: Overload:DelSole.MVVMSpecial.Helpers.RelayCommand`1.Execute
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Helpers.RelayCommand<T>.Execute
+  fullName.vb: DelSole.MVVMSpecial.Helpers.RelayCommand(Of T).Execute
+  nameWithType: RelayCommand<T>.Execute
+  nameWithType.vb: RelayCommand(Of T).Execute
+- uid: DelSole.MVVMSpecial.Helpers.RelayCommand`1.RaiseCanExecuteChanged
+  name: RaiseCanExecuteChanged()
+  href: api/DelSole.MVVMSpecial.Helpers.RelayCommand-1.html#DelSole_MVVMSpecial_Helpers_RelayCommand_1_RaiseCanExecuteChanged
+  commentId: M:DelSole.MVVMSpecial.Helpers.RelayCommand`1.RaiseCanExecuteChanged
+  fullName: DelSole.MVVMSpecial.Helpers.RelayCommand<T>.RaiseCanExecuteChanged()
+  fullName.vb: DelSole.MVVMSpecial.Helpers.RelayCommand(Of T).RaiseCanExecuteChanged()
+  nameWithType: RelayCommand<T>.RaiseCanExecuteChanged()
+  nameWithType.vb: RelayCommand(Of T).RaiseCanExecuteChanged()
+- uid: DelSole.MVVMSpecial.Helpers.RelayCommand`1.RaiseCanExecuteChanged*
+  name: RaiseCanExecuteChanged
+  href: api/DelSole.MVVMSpecial.Helpers.RelayCommand-1.html#DelSole_MVVMSpecial_Helpers_RelayCommand_1_RaiseCanExecuteChanged_
+  commentId: Overload:DelSole.MVVMSpecial.Helpers.RelayCommand`1.RaiseCanExecuteChanged
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Helpers.RelayCommand<T>.RaiseCanExecuteChanged
+  fullName.vb: DelSole.MVVMSpecial.Helpers.RelayCommand(Of T).RaiseCanExecuteChanged
+  nameWithType: RelayCommand<T>.RaiseCanExecuteChanged
+  nameWithType.vb: RelayCommand(Of T).RaiseCanExecuteChanged
+- uid: DelSole.MVVMSpecial.Interfaces
+  name: DelSole.MVVMSpecial.Interfaces
+  href: api/DelSole.MVVMSpecial.Interfaces.html
+  commentId: N:DelSole.MVVMSpecial.Interfaces
+  fullName: DelSole.MVVMSpecial.Interfaces
+  nameWithType: DelSole.MVVMSpecial.Interfaces
+- uid: DelSole.MVVMSpecial.Interfaces.IAsyncInitialization
+  name: IAsyncInitialization
+  href: api/DelSole.MVVMSpecial.Interfaces.IAsyncInitialization.html
+  commentId: T:DelSole.MVVMSpecial.Interfaces.IAsyncInitialization
+  fullName: DelSole.MVVMSpecial.Interfaces.IAsyncInitialization
+  nameWithType: IAsyncInitialization
+- uid: DelSole.MVVMSpecial.Interfaces.IAsyncInitialization.InitializeAsync
+  name: InitializeAsync()
+  href: api/DelSole.MVVMSpecial.Interfaces.IAsyncInitialization.html#DelSole_MVVMSpecial_Interfaces_IAsyncInitialization_InitializeAsync
+  commentId: M:DelSole.MVVMSpecial.Interfaces.IAsyncInitialization.InitializeAsync
+  fullName: DelSole.MVVMSpecial.Interfaces.IAsyncInitialization.InitializeAsync()
+  nameWithType: IAsyncInitialization.InitializeAsync()
+- uid: DelSole.MVVMSpecial.Interfaces.IAsyncInitialization.InitializeAsync*
+  name: InitializeAsync
+  href: api/DelSole.MVVMSpecial.Interfaces.IAsyncInitialization.html#DelSole_MVVMSpecial_Interfaces_IAsyncInitialization_InitializeAsync_
+  commentId: Overload:DelSole.MVVMSpecial.Interfaces.IAsyncInitialization.InitializeAsync
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Interfaces.IAsyncInitialization.InitializeAsync
+  nameWithType: IAsyncInitialization.InitializeAsync
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion
+  name: INotifyTaskCompletion
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.html
+  commentId: T:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion
+  nameWithType: INotifyTaskCompletion
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.ErrorMessage
+  name: ErrorMessage
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.html#DelSole_MVVMSpecial_Interfaces_INotifyTaskCompletion_ErrorMessage
+  commentId: P:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.ErrorMessage
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.ErrorMessage
+  nameWithType: INotifyTaskCompletion.ErrorMessage
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.ErrorMessage*
+  name: ErrorMessage
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.html#DelSole_MVVMSpecial_Interfaces_INotifyTaskCompletion_ErrorMessage_
+  commentId: Overload:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.ErrorMessage
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.ErrorMessage
+  nameWithType: INotifyTaskCompletion.ErrorMessage
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.Exception
+  name: Exception
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.html#DelSole_MVVMSpecial_Interfaces_INotifyTaskCompletion_Exception
+  commentId: P:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.Exception
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.Exception
+  nameWithType: INotifyTaskCompletion.Exception
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.Exception*
+  name: Exception
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.html#DelSole_MVVMSpecial_Interfaces_INotifyTaskCompletion_Exception_
+  commentId: Overload:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.Exception
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.Exception
+  nameWithType: INotifyTaskCompletion.Exception
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.InnerException
+  name: InnerException
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.html#DelSole_MVVMSpecial_Interfaces_INotifyTaskCompletion_InnerException
+  commentId: P:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.InnerException
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.InnerException
+  nameWithType: INotifyTaskCompletion.InnerException
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.InnerException*
+  name: InnerException
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.html#DelSole_MVVMSpecial_Interfaces_INotifyTaskCompletion_InnerException_
+  commentId: Overload:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.InnerException
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.InnerException
+  nameWithType: INotifyTaskCompletion.InnerException
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsCanceled
+  name: IsCanceled
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.html#DelSole_MVVMSpecial_Interfaces_INotifyTaskCompletion_IsCanceled
+  commentId: P:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsCanceled
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsCanceled
+  nameWithType: INotifyTaskCompletion.IsCanceled
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsCanceled*
+  name: IsCanceled
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.html#DelSole_MVVMSpecial_Interfaces_INotifyTaskCompletion_IsCanceled_
+  commentId: Overload:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsCanceled
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsCanceled
+  nameWithType: INotifyTaskCompletion.IsCanceled
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsCompleted
+  name: IsCompleted
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.html#DelSole_MVVMSpecial_Interfaces_INotifyTaskCompletion_IsCompleted
+  commentId: P:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsCompleted
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsCompleted
+  nameWithType: INotifyTaskCompletion.IsCompleted
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsCompleted*
+  name: IsCompleted
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.html#DelSole_MVVMSpecial_Interfaces_INotifyTaskCompletion_IsCompleted_
+  commentId: Overload:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsCompleted
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsCompleted
+  nameWithType: INotifyTaskCompletion.IsCompleted
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsFaulted
+  name: IsFaulted
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.html#DelSole_MVVMSpecial_Interfaces_INotifyTaskCompletion_IsFaulted
+  commentId: P:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsFaulted
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsFaulted
+  nameWithType: INotifyTaskCompletion.IsFaulted
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsFaulted*
+  name: IsFaulted
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.html#DelSole_MVVMSpecial_Interfaces_INotifyTaskCompletion_IsFaulted_
+  commentId: Overload:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsFaulted
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsFaulted
+  nameWithType: INotifyTaskCompletion.IsFaulted
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsNotCompleted
+  name: IsNotCompleted
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.html#DelSole_MVVMSpecial_Interfaces_INotifyTaskCompletion_IsNotCompleted
+  commentId: P:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsNotCompleted
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsNotCompleted
+  nameWithType: INotifyTaskCompletion.IsNotCompleted
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsNotCompleted*
+  name: IsNotCompleted
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.html#DelSole_MVVMSpecial_Interfaces_INotifyTaskCompletion_IsNotCompleted_
+  commentId: Overload:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsNotCompleted
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsNotCompleted
+  nameWithType: INotifyTaskCompletion.IsNotCompleted
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsSuccessfullyCompleted
+  name: IsSuccessfullyCompleted
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.html#DelSole_MVVMSpecial_Interfaces_INotifyTaskCompletion_IsSuccessfullyCompleted
+  commentId: P:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsSuccessfullyCompleted
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsSuccessfullyCompleted
+  nameWithType: INotifyTaskCompletion.IsSuccessfullyCompleted
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsSuccessfullyCompleted*
+  name: IsSuccessfullyCompleted
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.html#DelSole_MVVMSpecial_Interfaces_INotifyTaskCompletion_IsSuccessfullyCompleted_
+  commentId: Overload:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsSuccessfullyCompleted
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.IsSuccessfullyCompleted
+  nameWithType: INotifyTaskCompletion.IsSuccessfullyCompleted
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.Status
+  name: Status
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.html#DelSole_MVVMSpecial_Interfaces_INotifyTaskCompletion_Status
+  commentId: P:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.Status
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.Status
+  nameWithType: INotifyTaskCompletion.Status
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.Status*
+  name: Status
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.html#DelSole_MVVMSpecial_Interfaces_INotifyTaskCompletion_Status_
+  commentId: Overload:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.Status
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.Status
+  nameWithType: INotifyTaskCompletion.Status
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.Task
+  name: Task
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.html#DelSole_MVVMSpecial_Interfaces_INotifyTaskCompletion_Task
+  commentId: P:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.Task
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.Task
+  nameWithType: INotifyTaskCompletion.Task
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.Task*
+  name: Task
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.html#DelSole_MVVMSpecial_Interfaces_INotifyTaskCompletion_Task_
+  commentId: Overload:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.Task
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.Task
+  nameWithType: INotifyTaskCompletion.Task
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.TaskCompleted
+  name: TaskCompleted
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.html#DelSole_MVVMSpecial_Interfaces_INotifyTaskCompletion_TaskCompleted
+  commentId: P:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.TaskCompleted
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.TaskCompleted
+  nameWithType: INotifyTaskCompletion.TaskCompleted
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.TaskCompleted*
+  name: TaskCompleted
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.html#DelSole_MVVMSpecial_Interfaces_INotifyTaskCompletion_TaskCompleted_
+  commentId: Overload:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.TaskCompleted
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion.TaskCompleted
+  nameWithType: INotifyTaskCompletion.TaskCompleted
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion`1
+  name: INotifyTaskCompletion<TResult>
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion-1.html
+  commentId: T:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion`1
+  name.vb: INotifyTaskCompletion(Of TResult)
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion<TResult>
+  fullName.vb: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion(Of TResult)
+  nameWithType: INotifyTaskCompletion<TResult>
+  nameWithType.vb: INotifyTaskCompletion(Of TResult)
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion`1.Result
+  name: Result
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion-1.html#DelSole_MVVMSpecial_Interfaces_INotifyTaskCompletion_1_Result
+  commentId: P:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion`1.Result
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion<TResult>.Result
+  fullName.vb: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion(Of TResult).Result
+  nameWithType: INotifyTaskCompletion<TResult>.Result
+  nameWithType.vb: INotifyTaskCompletion(Of TResult).Result
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion`1.Result*
+  name: Result
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion-1.html#DelSole_MVVMSpecial_Interfaces_INotifyTaskCompletion_1_Result_
+  commentId: Overload:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion`1.Result
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion<TResult>.Result
+  fullName.vb: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion(Of TResult).Result
+  nameWithType: INotifyTaskCompletion<TResult>.Result
+  nameWithType.vb: INotifyTaskCompletion(Of TResult).Result
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion`1.Task
+  name: Task
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion-1.html#DelSole_MVVMSpecial_Interfaces_INotifyTaskCompletion_1_Task
+  commentId: P:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion`1.Task
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion<TResult>.Task
+  fullName.vb: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion(Of TResult).Task
+  nameWithType: INotifyTaskCompletion<TResult>.Task
+  nameWithType.vb: INotifyTaskCompletion(Of TResult).Task
+- uid: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion`1.Task*
+  name: Task
+  href: api/DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion-1.html#DelSole_MVVMSpecial_Interfaces_INotifyTaskCompletion_1_Task_
+  commentId: Overload:DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion`1.Task
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion<TResult>.Task
+  fullName.vb: DelSole.MVVMSpecial.Interfaces.INotifyTaskCompletion(Of TResult).Task
+  nameWithType: INotifyTaskCompletion<TResult>.Task
+  nameWithType.vb: INotifyTaskCompletion(Of TResult).Task
+- uid: DelSole.MVVMSpecial.Interfaces.IRefreshable
+  name: IRefreshable
+  href: api/DelSole.MVVMSpecial.Interfaces.IRefreshable.html
+  commentId: T:DelSole.MVVMSpecial.Interfaces.IRefreshable
+  fullName: DelSole.MVVMSpecial.Interfaces.IRefreshable
+  nameWithType: IRefreshable
+- uid: DelSole.MVVMSpecial.Interfaces.IRefreshable.Refresh(System.Object[])
+  name: Refresh(Object[])
+  href: api/DelSole.MVVMSpecial.Interfaces.IRefreshable.html#DelSole_MVVMSpecial_Interfaces_IRefreshable_Refresh_System_Object___
+  commentId: M:DelSole.MVVMSpecial.Interfaces.IRefreshable.Refresh(System.Object[])
+  name.vb: Refresh(Object())
+  fullName: DelSole.MVVMSpecial.Interfaces.IRefreshable.Refresh(System.Object[])
+  fullName.vb: DelSole.MVVMSpecial.Interfaces.IRefreshable.Refresh(System.Object())
+  nameWithType: IRefreshable.Refresh(Object[])
+  nameWithType.vb: IRefreshable.Refresh(Object())
+- uid: DelSole.MVVMSpecial.Interfaces.IRefreshable.Refresh*
+  name: Refresh
+  href: api/DelSole.MVVMSpecial.Interfaces.IRefreshable.html#DelSole_MVVMSpecial_Interfaces_IRefreshable_Refresh_
+  commentId: Overload:DelSole.MVVMSpecial.Interfaces.IRefreshable.Refresh
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Interfaces.IRefreshable.Refresh
+  nameWithType: IRefreshable.Refresh
+- uid: DelSole.MVVMSpecial.Pages
+  name: DelSole.MVVMSpecial.Pages
+  href: api/DelSole.MVVMSpecial.Pages.html
+  commentId: N:DelSole.MVVMSpecial.Pages
+  fullName: DelSole.MVVMSpecial.Pages
+  nameWithType: DelSole.MVVMSpecial.Pages
+- uid: DelSole.MVVMSpecial.Pages.PageBase
+  name: PageBase
+  href: api/DelSole.MVVMSpecial.Pages.PageBase.html
+  commentId: T:DelSole.MVVMSpecial.Pages.PageBase
+  fullName: DelSole.MVVMSpecial.Pages.PageBase
+  nameWithType: PageBase
+- uid: DelSole.MVVMSpecial.Pages.PageBase.#ctor
+  name: PageBase()
+  href: api/DelSole.MVVMSpecial.Pages.PageBase.html#DelSole_MVVMSpecial_Pages_PageBase__ctor
+  commentId: M:DelSole.MVVMSpecial.Pages.PageBase.#ctor
+  fullName: DelSole.MVVMSpecial.Pages.PageBase.PageBase()
+  nameWithType: PageBase.PageBase()
+- uid: DelSole.MVVMSpecial.Pages.PageBase.#ctor*
+  name: PageBase
+  href: api/DelSole.MVVMSpecial.Pages.PageBase.html#DelSole_MVVMSpecial_Pages_PageBase__ctor_
+  commentId: Overload:DelSole.MVVMSpecial.Pages.PageBase.#ctor
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Pages.PageBase.PageBase
+  nameWithType: PageBase.PageBase
+- uid: DelSole.MVVMSpecial.Pages.PageBase.DisplayAlertFromMessagingCenter(DelSole.MVVMSpecial.ViewModels.ViewModelBase,DelSole.MVVMSpecial.Helpers.MessagingCenterAlert)
+  name: DisplayAlertFromMessagingCenter(ViewModelBase, MessagingCenterAlert)
+  href: api/DelSole.MVVMSpecial.Pages.PageBase.html#DelSole_MVVMSpecial_Pages_PageBase_DisplayAlertFromMessagingCenter_DelSole_MVVMSpecial_ViewModels_ViewModelBase_DelSole_MVVMSpecial_Helpers_MessagingCenterAlert_
+  commentId: M:DelSole.MVVMSpecial.Pages.PageBase.DisplayAlertFromMessagingCenter(DelSole.MVVMSpecial.ViewModels.ViewModelBase,DelSole.MVVMSpecial.Helpers.MessagingCenterAlert)
+  fullName: DelSole.MVVMSpecial.Pages.PageBase.DisplayAlertFromMessagingCenter(DelSole.MVVMSpecial.ViewModels.ViewModelBase, DelSole.MVVMSpecial.Helpers.MessagingCenterAlert)
+  nameWithType: PageBase.DisplayAlertFromMessagingCenter(ViewModelBase, MessagingCenterAlert)
+- uid: DelSole.MVVMSpecial.Pages.PageBase.DisplayAlertFromMessagingCenter*
+  name: DisplayAlertFromMessagingCenter
+  href: api/DelSole.MVVMSpecial.Pages.PageBase.html#DelSole_MVVMSpecial_Pages_PageBase_DisplayAlertFromMessagingCenter_
+  commentId: Overload:DelSole.MVVMSpecial.Pages.PageBase.DisplayAlertFromMessagingCenter
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Pages.PageBase.DisplayAlertFromMessagingCenter
+  nameWithType: PageBase.DisplayAlertFromMessagingCenter
+- uid: DelSole.MVVMSpecial.Pages.PageBase.DisplayOnlyFrom(System.Collections.Generic.IEnumerable{System.Type})
+  name: DisplayOnlyFrom(IEnumerable<Type>)
+  href: api/DelSole.MVVMSpecial.Pages.PageBase.html#DelSole_MVVMSpecial_Pages_PageBase_DisplayOnlyFrom_System_Collections_Generic_IEnumerable_System_Type__
+  commentId: M:DelSole.MVVMSpecial.Pages.PageBase.DisplayOnlyFrom(System.Collections.Generic.IEnumerable{System.Type})
+  name.vb: DisplayOnlyFrom(IEnumerable(Of Type))
+  fullName: DelSole.MVVMSpecial.Pages.PageBase.DisplayOnlyFrom(System.Collections.Generic.IEnumerable<System.Type>)
+  fullName.vb: DelSole.MVVMSpecial.Pages.PageBase.DisplayOnlyFrom(System.Collections.Generic.IEnumerable(Of System.Type))
+  nameWithType: PageBase.DisplayOnlyFrom(IEnumerable<Type>)
+  nameWithType.vb: PageBase.DisplayOnlyFrom(IEnumerable(Of Type))
+- uid: DelSole.MVVMSpecial.Pages.PageBase.DisplayOnlyFrom*
+  name: DisplayOnlyFrom
+  href: api/DelSole.MVVMSpecial.Pages.PageBase.html#DelSole_MVVMSpecial_Pages_PageBase_DisplayOnlyFrom_
+  commentId: Overload:DelSole.MVVMSpecial.Pages.PageBase.DisplayOnlyFrom
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Pages.PageBase.DisplayOnlyFrom
+  nameWithType: PageBase.DisplayOnlyFrom
+- uid: DelSole.MVVMSpecial.Pages.PageBase.Refresh(System.Object[])
+  name: Refresh(Object[])
+  href: api/DelSole.MVVMSpecial.Pages.PageBase.html#DelSole_MVVMSpecial_Pages_PageBase_Refresh_System_Object___
+  commentId: M:DelSole.MVVMSpecial.Pages.PageBase.Refresh(System.Object[])
+  name.vb: Refresh(Object())
+  fullName: DelSole.MVVMSpecial.Pages.PageBase.Refresh(System.Object[])
+  fullName.vb: DelSole.MVVMSpecial.Pages.PageBase.Refresh(System.Object())
+  nameWithType: PageBase.Refresh(Object[])
+  nameWithType.vb: PageBase.Refresh(Object())
+- uid: DelSole.MVVMSpecial.Pages.PageBase.Refresh*
+  name: Refresh
+  href: api/DelSole.MVVMSpecial.Pages.PageBase.html#DelSole_MVVMSpecial_Pages_PageBase_Refresh_
+  commentId: Overload:DelSole.MVVMSpecial.Pages.PageBase.Refresh
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Pages.PageBase.Refresh
+  nameWithType: PageBase.Refresh
+- uid: DelSole.MVVMSpecial.Pages.PageBase.ViewModel
+  name: ViewModel
+  href: api/DelSole.MVVMSpecial.Pages.PageBase.html#DelSole_MVVMSpecial_Pages_PageBase_ViewModel
+  commentId: P:DelSole.MVVMSpecial.Pages.PageBase.ViewModel
+  fullName: DelSole.MVVMSpecial.Pages.PageBase.ViewModel
+  nameWithType: PageBase.ViewModel
+- uid: DelSole.MVVMSpecial.Pages.PageBase.ViewModel*
+  name: ViewModel
+  href: api/DelSole.MVVMSpecial.Pages.PageBase.html#DelSole_MVVMSpecial_Pages_PageBase_ViewModel_
+  commentId: Overload:DelSole.MVVMSpecial.Pages.PageBase.ViewModel
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Pages.PageBase.ViewModel
+  nameWithType: PageBase.ViewModel
+- uid: DelSole.MVVMSpecial.Services
+  name: DelSole.MVVMSpecial.Services
+  href: api/DelSole.MVVMSpecial.Services.html
+  commentId: N:DelSole.MVVMSpecial.Services
+  fullName: DelSole.MVVMSpecial.Services
+  nameWithType: DelSole.MVVMSpecial.Services
+- uid: DelSole.MVVMSpecial.Services.ApiService
+  name: ApiService
+  href: api/DelSole.MVVMSpecial.Services.ApiService.html
+  commentId: T:DelSole.MVVMSpecial.Services.ApiService
+  fullName: DelSole.MVVMSpecial.Services.ApiService
+  nameWithType: ApiService
+- uid: DelSole.MVVMSpecial.Services.ApiService.DeleteAsync*
+  name: DeleteAsync
+  href: api/DelSole.MVVMSpecial.Services.ApiService.html#DelSole_MVVMSpecial_Services_ApiService_DeleteAsync_
+  commentId: Overload:DelSole.MVVMSpecial.Services.ApiService.DeleteAsync
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Services.ApiService.DeleteAsync
+  nameWithType: ApiService.DeleteAsync
+- uid: DelSole.MVVMSpecial.Services.ApiService.DeleteAsync``1(``0,System.String,System.String)
+  name: DeleteAsync<T>(T, String, String)
+  href: api/DelSole.MVVMSpecial.Services.ApiService.html#DelSole_MVVMSpecial_Services_ApiService_DeleteAsync__1___0_System_String_System_String_
+  commentId: M:DelSole.MVVMSpecial.Services.ApiService.DeleteAsync``1(``0,System.String,System.String)
+  name.vb: DeleteAsync(Of T)(T, String, String)
+  fullName: DelSole.MVVMSpecial.Services.ApiService.DeleteAsync<T>(T, System.String, System.String)
+  fullName.vb: DelSole.MVVMSpecial.Services.ApiService.DeleteAsync(Of T)(T, System.String, System.String)
+  nameWithType: ApiService.DeleteAsync<T>(T, String, String)
+  nameWithType.vb: ApiService.DeleteAsync(Of T)(T, String, String)
+- uid: DelSole.MVVMSpecial.Services.ApiService.EditAsync*
+  name: EditAsync
+  href: api/DelSole.MVVMSpecial.Services.ApiService.html#DelSole_MVVMSpecial_Services_ApiService_EditAsync_
+  commentId: Overload:DelSole.MVVMSpecial.Services.ApiService.EditAsync
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Services.ApiService.EditAsync
+  nameWithType: ApiService.EditAsync
+- uid: DelSole.MVVMSpecial.Services.ApiService.EditAsync``1(``0,System.String,System.String)
+  name: EditAsync<T>(T, String, String)
+  href: api/DelSole.MVVMSpecial.Services.ApiService.html#DelSole_MVVMSpecial_Services_ApiService_EditAsync__1___0_System_String_System_String_
+  commentId: M:DelSole.MVVMSpecial.Services.ApiService.EditAsync``1(``0,System.String,System.String)
+  name.vb: EditAsync(Of T)(T, String, String)
+  fullName: DelSole.MVVMSpecial.Services.ApiService.EditAsync<T>(T, System.String, System.String)
+  fullName.vb: DelSole.MVVMSpecial.Services.ApiService.EditAsync(Of T)(T, System.String, System.String)
+  nameWithType: ApiService.EditAsync<T>(T, String, String)
+  nameWithType.vb: ApiService.EditAsync(Of T)(T, String, String)
+- uid: DelSole.MVVMSpecial.Services.ApiService.GetAsync*
+  name: GetAsync
+  href: api/DelSole.MVVMSpecial.Services.ApiService.html#DelSole_MVVMSpecial_Services_ApiService_GetAsync_
+  commentId: Overload:DelSole.MVVMSpecial.Services.ApiService.GetAsync
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Services.ApiService.GetAsync
+  nameWithType: ApiService.GetAsync
+- uid: DelSole.MVVMSpecial.Services.ApiService.GetAsync``1(``0,System.String,System.String,System.Boolean)
+  name: GetAsync<T>(T, String, String, Boolean)
+  href: api/DelSole.MVVMSpecial.Services.ApiService.html#DelSole_MVVMSpecial_Services_ApiService_GetAsync__1___0_System_String_System_String_System_Boolean_
+  commentId: M:DelSole.MVVMSpecial.Services.ApiService.GetAsync``1(``0,System.String,System.String,System.Boolean)
+  name.vb: GetAsync(Of T)(T, String, String, Boolean)
+  fullName: DelSole.MVVMSpecial.Services.ApiService.GetAsync<T>(T, System.String, System.String, System.Boolean)
+  fullName.vb: DelSole.MVVMSpecial.Services.ApiService.GetAsync(Of T)(T, System.String, System.String, System.Boolean)
+  nameWithType: ApiService.GetAsync<T>(T, String, String, Boolean)
+  nameWithType.vb: ApiService.GetAsync(Of T)(T, String, String, Boolean)
+- uid: DelSole.MVVMSpecial.Services.ApiService.WriteAsync*
+  name: WriteAsync
+  href: api/DelSole.MVVMSpecial.Services.ApiService.html#DelSole_MVVMSpecial_Services_ApiService_WriteAsync_
+  commentId: Overload:DelSole.MVVMSpecial.Services.ApiService.WriteAsync
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.Services.ApiService.WriteAsync
+  nameWithType: ApiService.WriteAsync
+- uid: DelSole.MVVMSpecial.Services.ApiService.WriteAsync``1(``0,System.String,System.String)
+  name: WriteAsync<T>(T, String, String)
+  href: api/DelSole.MVVMSpecial.Services.ApiService.html#DelSole_MVVMSpecial_Services_ApiService_WriteAsync__1___0_System_String_System_String_
+  commentId: M:DelSole.MVVMSpecial.Services.ApiService.WriteAsync``1(``0,System.String,System.String)
+  name.vb: WriteAsync(Of T)(T, String, String)
+  fullName: DelSole.MVVMSpecial.Services.ApiService.WriteAsync<T>(T, System.String, System.String)
+  fullName.vb: DelSole.MVVMSpecial.Services.ApiService.WriteAsync(Of T)(T, System.String, System.String)
+  nameWithType: ApiService.WriteAsync<T>(T, String, String)
+  nameWithType.vb: ApiService.WriteAsync(Of T)(T, String, String)
+- uid: DelSole.MVVMSpecial.ViewModels
+  name: DelSole.MVVMSpecial.ViewModels
+  href: api/DelSole.MVVMSpecial.ViewModels.html
+  commentId: N:DelSole.MVVMSpecial.ViewModels
+  fullName: DelSole.MVVMSpecial.ViewModels
+  nameWithType: DelSole.MVVMSpecial.ViewModels
+- uid: DelSole.MVVMSpecial.ViewModels.ViewModelBase
+  name: ViewModelBase
+  href: api/DelSole.MVVMSpecial.ViewModels.ViewModelBase.html
+  commentId: T:DelSole.MVVMSpecial.ViewModels.ViewModelBase
+  fullName: DelSole.MVVMSpecial.ViewModels.ViewModelBase
+  nameWithType: ViewModelBase
+- uid: DelSole.MVVMSpecial.ViewModels.ViewModelBase.#ctor
+  name: ViewModelBase()
+  href: api/DelSole.MVVMSpecial.ViewModels.ViewModelBase.html#DelSole_MVVMSpecial_ViewModels_ViewModelBase__ctor
+  commentId: M:DelSole.MVVMSpecial.ViewModels.ViewModelBase.#ctor
+  fullName: DelSole.MVVMSpecial.ViewModels.ViewModelBase.ViewModelBase()
+  nameWithType: ViewModelBase.ViewModelBase()
+- uid: DelSole.MVVMSpecial.ViewModels.ViewModelBase.#ctor*
+  name: ViewModelBase
+  href: api/DelSole.MVVMSpecial.ViewModels.ViewModelBase.html#DelSole_MVVMSpecial_ViewModels_ViewModelBase__ctor_
+  commentId: Overload:DelSole.MVVMSpecial.ViewModels.ViewModelBase.#ctor
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.ViewModels.ViewModelBase.ViewModelBase
+  nameWithType: ViewModelBase.ViewModelBase
+- uid: DelSole.MVVMSpecial.ViewModels.ViewModelBase.ClosePageCommand
+  name: ClosePageCommand
+  href: api/DelSole.MVVMSpecial.ViewModels.ViewModelBase.html#DelSole_MVVMSpecial_ViewModels_ViewModelBase_ClosePageCommand
+  commentId: P:DelSole.MVVMSpecial.ViewModels.ViewModelBase.ClosePageCommand
+  fullName: DelSole.MVVMSpecial.ViewModels.ViewModelBase.ClosePageCommand
+  nameWithType: ViewModelBase.ClosePageCommand
+- uid: DelSole.MVVMSpecial.ViewModels.ViewModelBase.ClosePageCommand*
+  name: ClosePageCommand
+  href: api/DelSole.MVVMSpecial.ViewModels.ViewModelBase.html#DelSole_MVVMSpecial_ViewModels_ViewModelBase_ClosePageCommand_
+  commentId: Overload:DelSole.MVVMSpecial.ViewModels.ViewModelBase.ClosePageCommand
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.ViewModels.ViewModelBase.ClosePageCommand
+  nameWithType: ViewModelBase.ClosePageCommand
+- uid: DelSole.MVVMSpecial.ViewModels.ViewModelBase.Initialization
+  name: Initialization
+  href: api/DelSole.MVVMSpecial.ViewModels.ViewModelBase.html#DelSole_MVVMSpecial_ViewModels_ViewModelBase_Initialization
+  commentId: P:DelSole.MVVMSpecial.ViewModels.ViewModelBase.Initialization
+  fullName: DelSole.MVVMSpecial.ViewModels.ViewModelBase.Initialization
+  nameWithType: ViewModelBase.Initialization
+- uid: DelSole.MVVMSpecial.ViewModels.ViewModelBase.Initialization*
+  name: Initialization
+  href: api/DelSole.MVVMSpecial.ViewModels.ViewModelBase.html#DelSole_MVVMSpecial_ViewModels_ViewModelBase_Initialization_
+  commentId: Overload:DelSole.MVVMSpecial.ViewModels.ViewModelBase.Initialization
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.ViewModels.ViewModelBase.Initialization
+  nameWithType: ViewModelBase.Initialization
+- uid: DelSole.MVVMSpecial.ViewModels.ViewModelBase.InitializationNotifier
+  name: InitializationNotifier
+  href: api/DelSole.MVVMSpecial.ViewModels.ViewModelBase.html#DelSole_MVVMSpecial_ViewModels_ViewModelBase_InitializationNotifier
+  commentId: P:DelSole.MVVMSpecial.ViewModels.ViewModelBase.InitializationNotifier
+  fullName: DelSole.MVVMSpecial.ViewModels.ViewModelBase.InitializationNotifier
+  nameWithType: ViewModelBase.InitializationNotifier
+- uid: DelSole.MVVMSpecial.ViewModels.ViewModelBase.InitializationNotifier*
+  name: InitializationNotifier
+  href: api/DelSole.MVVMSpecial.ViewModels.ViewModelBase.html#DelSole_MVVMSpecial_ViewModels_ViewModelBase_InitializationNotifier_
+  commentId: Overload:DelSole.MVVMSpecial.ViewModels.ViewModelBase.InitializationNotifier
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.ViewModels.ViewModelBase.InitializationNotifier
+  nameWithType: ViewModelBase.InitializationNotifier
+- uid: DelSole.MVVMSpecial.ViewModels.ViewModelBase.InitializeAsync
+  name: InitializeAsync()
+  href: api/DelSole.MVVMSpecial.ViewModels.ViewModelBase.html#DelSole_MVVMSpecial_ViewModels_ViewModelBase_InitializeAsync
+  commentId: M:DelSole.MVVMSpecial.ViewModels.ViewModelBase.InitializeAsync
+  fullName: DelSole.MVVMSpecial.ViewModels.ViewModelBase.InitializeAsync()
+  nameWithType: ViewModelBase.InitializeAsync()
+- uid: DelSole.MVVMSpecial.ViewModels.ViewModelBase.InitializeAsync*
+  name: InitializeAsync
+  href: api/DelSole.MVVMSpecial.ViewModels.ViewModelBase.html#DelSole_MVVMSpecial_ViewModels_ViewModelBase_InitializeAsync_
+  commentId: Overload:DelSole.MVVMSpecial.ViewModels.ViewModelBase.InitializeAsync
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.ViewModels.ViewModelBase.InitializeAsync
+  nameWithType: ViewModelBase.InitializeAsync
+- uid: DelSole.MVVMSpecial.ViewModels.ViewModelBase.IsBusy
+  name: IsBusy
+  href: api/DelSole.MVVMSpecial.ViewModels.ViewModelBase.html#DelSole_MVVMSpecial_ViewModels_ViewModelBase_IsBusy
+  commentId: P:DelSole.MVVMSpecial.ViewModels.ViewModelBase.IsBusy
+  fullName: DelSole.MVVMSpecial.ViewModels.ViewModelBase.IsBusy
+  nameWithType: ViewModelBase.IsBusy
+- uid: DelSole.MVVMSpecial.ViewModels.ViewModelBase.IsBusy*
+  name: IsBusy
+  href: api/DelSole.MVVMSpecial.ViewModels.ViewModelBase.html#DelSole_MVVMSpecial_ViewModels_ViewModelBase_IsBusy_
+  commentId: Overload:DelSole.MVVMSpecial.ViewModels.ViewModelBase.IsBusy
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.ViewModels.ViewModelBase.IsBusy
+  nameWithType: ViewModelBase.IsBusy
+- uid: DelSole.MVVMSpecial.ViewModels.ViewModelBase.Title
+  name: Title
+  href: api/DelSole.MVVMSpecial.ViewModels.ViewModelBase.html#DelSole_MVVMSpecial_ViewModels_ViewModelBase_Title
+  commentId: P:DelSole.MVVMSpecial.ViewModels.ViewModelBase.Title
+  fullName: DelSole.MVVMSpecial.ViewModels.ViewModelBase.Title
+  nameWithType: ViewModelBase.Title
+- uid: DelSole.MVVMSpecial.ViewModels.ViewModelBase.Title*
+  name: Title
+  href: api/DelSole.MVVMSpecial.ViewModels.ViewModelBase.html#DelSole_MVVMSpecial_ViewModels_ViewModelBase_Title_
+  commentId: Overload:DelSole.MVVMSpecial.ViewModels.ViewModelBase.Title
+  isSpec: "True"
+  fullName: DelSole.MVVMSpecial.ViewModels.ViewModelBase.Title
+  nameWithType: ViewModelBase.Title

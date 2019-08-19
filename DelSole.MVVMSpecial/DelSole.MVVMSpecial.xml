@@ -68,6 +68,11 @@
             Define a property that all validator behaviors must expose for validation to be considered passed
             </summary>
         </member>
+        <member name="P:DelSole.MVVMSpecial.Behaviors.IValidatorBehavior.IsValid">
+            <summary>
+            Return whether the specified object has passed validation
+            </summary>
+        </member>
         <member name="T:DelSole.MVVMSpecial.Behaviors.Validation">
             <summary>
             Store a list of validation errors
@@ -96,6 +101,36 @@
             Convert a value from an enumeration into a string, provided its <seealso cref="T:System.ComponentModel.DataAnnotations.DisplayAttribute"/> attribute with the Description property
             </summary>
         </member>
+        <member name="T:DelSole.MVVMSpecial.Converters.IntToBoolConverter">
+            <summary>
+            Convert an <seealso cref="T:System.Int32"/> into <seealso cref="T:System.Boolean"/>. 0 means false, all others mean true
+            </summary>
+        </member>
+        <member name="T:DelSole.MVVMSpecial.Converters.LongToShortDateConverter">
+            <summary>
+            Convert a long <seealso cref="T:System.DateTime"/> into its short representation
+            </summary>
+        </member>
+        <member name="T:DelSole.MVVMSpecial.Converters.NegateBooleanConverter">
+            <summary>
+            Convert a bool value into its negation (e.g. from true to false)
+            </summary>
+        </member>
+        <member name="T:DelSole.MVVMSpecial.Converters.StringToTitleCaseConverter">
+            <summary>
+            Makes uppercase the first letter of each word in a string
+            </summary>
+        </member>
+        <member name="T:DelSole.MVVMSpecial.Converters.StringToUpperCaseConverter">
+            <summary>
+            Convert a <seealso cref="T:System.String"/> into its uppercase representation
+            </summary>
+        </member>
+        <member name="T:DelSole.MVVMSpecial.Helpers.Extensions">
+            <summary>
+            Defines helper extension methods
+            </summary>
+        </member>
         <member name="M:DelSole.MVVMSpecial.Helpers.Extensions.ToObservableCollection``1(System.Collections.Generic.IEnumerable{``0})">
             <summary>
             Return an <seealso cref="T:System.Collections.ObjectModel.ObservableCollection`1"/> from any <seealso cref="T:System.Collections.Generic.IEnumerable`1"/> set
@@ -108,8 +143,14 @@
             <summary>
             Capitalize the first letter of each word in a string
             </summary>
-            <param name="value"></param>
-            <returns></returns>
+            <param name="value">The string to be converted</param>
+            <param name="culture">The culture representation in the ISO format (e.g. en-US or en)</param>
+            <returns><seealso cref="T:System.String"/></returns>
+        </member>
+        <member name="T:DelSole.MVVMSpecial.Helpers.MessagingCenterAlert">
+            <summary>
+            Provides a built-in alert for view models
+            </summary>
         </member>
         <member name="P:DelSole.MVVMSpecial.Helpers.MessagingCenterAlert.Title">
             <summary>
@@ -135,6 +176,11 @@
             </summary>
             <value>The OnCompleted Action.</value>
         </member>
+        <member name="T:DelSole.MVVMSpecial.Helpers.NotifyBase">
+            <summary>
+            Base class that implements change notification
+            </summary>
+        </member>
         <member name="M:DelSole.MVVMSpecial.Helpers.NotifyBase.SetProperty``1(``0@,``0,System.String,System.Action)">
             <summary>
             Set a property value by ref and raise a change notification
@@ -145,6 +191,12 @@
             <param name="propertyName">the property name</param>
             <param name="onChanged">custom action to be invoked when the value changes</param>
             <returns></returns>
+        </member>
+        <member name="M:DelSole.MVVMSpecial.Helpers.NotifyBase.OnPropertyChanged(System.String)">
+            <summary>
+            To be called when a property value changes
+            </summary>
+            <param name="propertyName">the name of the property whose value has changed</param>
         </member>
         <member name="T:DelSole.MVVMSpecial.Helpers.NotifyTaskCompletion">
             <summary>
@@ -410,6 +462,11 @@
             <param name="constructorParams"></param>
             <returns><seealso cref="T:System.Threading.Tasks.Task"/></returns>
         </member>
+        <member name="T:DelSole.MVVMSpecial.Pages.PageBase">
+            <summary>
+            Base class for pages that implement content refresh and actions to close the page 
+            </summary>
+        </member>
         <member name="T:DelSole.MVVMSpecial.Services.ApiService">
             <summary>
             Helper class to make API calls via HTTP verbs
@@ -456,6 +513,11 @@
             <param name="id">The ID or query string</param>
             <returns></returns>
         </member>
+        <member name="T:DelSole.MVVMSpecial.ViewModels.ViewModelBase">
+            <summary>
+            A base ViewModel with asynchronous initialization and change notification 
+            </summary>
+        </member>
         <member name="M:DelSole.MVVMSpecial.ViewModels.ViewModelBase.InitializeAsync">
             <summary>
             Contains asynchronous code that must run at initialization
@@ -474,6 +536,11 @@
         <member name="P:DelSole.MVVMSpecial.ViewModels.ViewModelBase.Title">
             <summary>
             It can be bound to a Page's Title property
+            </summary>
+        </member>
+        <member name="P:DelSole.MVVMSpecial.ViewModels.ViewModelBase.ClosePageCommand">
+            <summary>
+            A bindable <seealso cref="T:Xamarin.Forms.Command"/> that allows for closing a page
             </summary>
         </member>
     </members>
